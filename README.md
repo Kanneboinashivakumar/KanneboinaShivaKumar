@@ -1,69 +1,41 @@
 <h1 align="center">Hi 👋, I'm Kanneboina Shiva Kumar</h1>
 <h3 align="center">My programs run seamlessly, letting bugs sleep in peace 😴</h3>
 
-- 🔭 I’m currently working on **LokSathi – India’s first citizen companion**
-- 🌱 I’m currently learning **Machine Learning and practicing Data Structures & Algorithms (DSA)**
-- 👯 I’m looking to collaborate on **innovative projects**
-- 🤝 I’m looking for help with [BharatAkshar](https://kanneboinashivakumar.github.io/BharatAkshar/)
-- 👨‍💻 All of my projects are available at [My Portfolio](https://kanneboinashivakumar.github.io/portfolio/)
+## 💫 About Me
+- 🔭 I’m currently working on **LokSathi – India’s first citizen companion**  
+- 🌱 I’m currently learning **Machine Learning and practicing Data Structures & Algorithms (DSA)**  
+- 👯 I’m looking to collaborate on **innovative projects**  
+- 🤝 I’m looking for help with [BharatAkshar](https://kanneboinashivakumar.github.io/BharatAkshar/)  
+- 👨‍💻 All of my projects are available at [My Portfolio](https://kanneboinashivakumar.github.io/portfolio/)  
 - ⚡ Fun fact: **I once tried debugging for 3 hours, only to realize it was a missing semicolon 😅**
 
- <h3 align="left">Languages and Tools:</h3>
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/KANNEBOINA_SHIVA_KUMAR) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ShivaKumarKanneboina) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:beginsample36@gmail.com)
 
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin:5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="display:inline-block; margin:5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="display:inline-block; margin:5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin:5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
+## 💻 Tech Stack
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="display:inline-block; margin:5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin:5px;">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin:5px;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="display:inline-block; margin:5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
+## 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanneboinashivakumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+![Streak](https://nirzak-streak-stats.vercel.app/?user=Kanneboinashivakumar&theme=dark&hide_border=false)
 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="display:inline-block; margin:5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="display:inline-block; margin:5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin:5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin:5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Kanneboinashivakumar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="display:inline-block; margin:5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer" style="display:inline-block; margin:5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="display:inline-block; margin:5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="display:inline-block; margin:5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
+[![Profile Views](https://visitcount.itsvg.in/api?id=Kanneboinashivakumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="display:inline-block; margin:5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
