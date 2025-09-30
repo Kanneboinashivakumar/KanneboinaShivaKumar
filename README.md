@@ -38,7 +38,12 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
+  <!-- First row: 3 trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=Kanneboinashivakumar&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1&column=3" />
+</p>
+<p align="center">
+  <!-- Second row: 2 trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Kanneboinashivakumar&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1&column=2" />
 </p>
 
 ## 👁️ Profile Views
