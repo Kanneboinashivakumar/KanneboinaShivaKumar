@@ -33,9 +33,12 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanneboinashivakumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=Kanneboinashivakumar&theme=dark&hide_border=false)
 
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Kanneboinashivakumar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Kanneboinashivakumar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Kanneboinashivakumar&icon=0&color=0)](https://visitcount.itsvg.in)
+## 👁️ Profile Views
+[![](https://visitcount.itsvg.in/api?id=Kanneboinashivakumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
