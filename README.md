@@ -81,7 +81,7 @@ me.say_hi()
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kanneboinashivakumar&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kanneboinashivakumar&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
@@ -212,12 +212,8 @@ Team Collaboration       █████████████████░�
 ---
 
 <picture>
-  <!-- Dark mode -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0,0f0c29,302b63,24243e&height=130&section=footer&text=%F0%9F%8C%8C+Kanneboina+Shiva+Kumar+|+Code+%F0%9F%9A%80+Innovate+%F0%9F%92%A1&fontSize=28&animation=twinkling&textColor=ffffff" />
-  
-  <!-- Light mode -->
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=ff6ec7,00d4ff,ffde00&height=130&section=footer&text=%F0%9F%8C%8C+Kanneboina+Shiva+Kumar+|+Code+%F0%9F%9A%80+Innovate+%F0%9F%92%A1&fontSize=28&animation=twinkling&textColor=000000" />
-  
-  <!-- Fallback -->
-  <img alt="Futuristic Capsule Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0,0f0c29,302b63,24243e&height=130&section=footer&text=%F0%9F%8C%8C+Kanneboina+Shiva+Kumar+|+Code+%F0%9F%9A%80+Innovate+%F0%9F%92%A1&fontSize=28&animation=twinkling&textColor=ffffff" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0,0f0c29,302b63,24243e&height=130&section=footer&text=%F0%9F%8C%8C+Kanneboina+Shiva+Kumar+%7C+Code+%F0%9F%9A%80+Innovate+%F0%9F%92%A1&fontSize=28&animation=twinkling">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0,fef9ef,ddf5e9,a8e6cf&height=130&section=footer&text=%F0%9F%8C%8C+Kanneboina+Shiva+Kumar+%7C+Code+%F0%9F%9A%80+Innovate+%F0%9F%92%A1&fontSize=28&animation=twinkling">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,0f0c29,302b63,24243e&height=130&section=footer&text=%F0%9F%8C%8C+Kanneboina+Shiva+Kumar+%7C+Code+%F0%9F%9A%80+Innovate+%F0%9F%92%A1&fontSize=28&animation=twinkling" alt="Waving capsule footer with name and tagline">
 </picture>
+
