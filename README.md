@@ -4,8 +4,9 @@
 
 
 <div align="center">
+  
+# 🚀 Hi there, I'm Kanneboina Shiva Kumar! <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="150">
 
-# 🚀 Hi there, I'm Kanneboina Shiva Kumar! <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="300">
 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Kanneboinashivakumar&color=blueviolet&style=for-the-badge)](https://github.com/Kanneboinashivakumar)
