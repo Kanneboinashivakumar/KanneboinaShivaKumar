@@ -16,8 +16,7 @@
 
 ---
 
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-
+<div style="display: flex; align-items: center; gap: 20px;">
   <!-- Heading Section -->
   <div style="flex: 1; min-width: 200px;">
     <h2>👨‍💻 About Me</h2>
@@ -27,9 +26,8 @@
   <div style="flex: 1; min-width: 200px; text-align: center;">
     <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" 
          alt="About Me GIF" 
-         style="width:100%; max-width:150px; height:auto;" />
+         style="width: 100%; max-width: 150px; height: auto;" />
   </div>
-
 </div>
 
 
@@ -47,8 +45,13 @@ def say_hi(self):
 me = DataScientist()
 me.say_hi()
 ```
-
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+ <div style="display: flex; align-items: flex-start; justify-content: center; gap: 20px;">
+  <!-- Image Section -->
+  <div style="flex: 1; min-width: 300px; max-width: 50%; text-align: center;">
+    <img src="https://your-profile-image-url.jpg" 
+         alt="Profile Image" 
+         style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px;" />
+  </div>
 
   <!-- Text Section -->
   <div style="flex: 1; min-width: 300px; max-width: 50%;">
@@ -66,14 +69,7 @@ me.say_hi()
     </a><br/>
     ⚡ <b>Fun fact:</b> I once debugged for 3 hours only to find a missing semicolon 😅.
   </div>
-
-  <!-- GIF Section -->
-  <div style="flex: 1; min-width: 300px; max-width: 50%; text-align: center;">
-    <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="cool gif" style="width:100%; max-width:300px; height:auto;"/>
-  </div>
-
 </div>
-
 
 
 ---
