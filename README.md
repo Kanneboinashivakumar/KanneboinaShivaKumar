@@ -32,8 +32,15 @@ def say_hi(self):
 me = DataScientist()
 me.say_hi()
 ```
-| 🔭 <b>Currently working on:</b> LokSathi – India's first citizen companion.<br>🌱 <b>Learning:</b> Machine Learning & Advanced DSA with hands-on projects.<br>💡 <b>Interests:</b> Full-Stack Development, AI/ML, Open Source, Problem Solving.<br>🤝 <b>Looking to collaborate on:</b> Innovative projects that create impact.<br>🎯 <b>2025 Goals:</b> Master ML algorithms, Contribute to 5+ open source projects.<br>📫 <b>Reach me:</b> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ShivaKumarKanneboina) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:beginsample36@gmail.com)<br>⚡ <b>Fun fact:</b> I once debugged for 3 hours only to find a missing semicolon 😅. | ![Currently Working GIF](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif) |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Left Column | Right Column |
+|------------|--------------|
+| - 🔭 **Currently working on:** LokSathi – India's first citizen companion.  
+- 🌱 **Learning:** Machine Learning & Advanced DSA with hands-on projects.  
+- 💡 **Interests:** Full-Stack Development, AI/ML, Open Source, Problem Solving.  
+- 🤝 **Looking to collaborate on:** Innovative projects that create impact.  
+- 🎯 **2025 Goals:** Master ML algorithms, Contribute to 5+ open source projects.  
+- 📫 **Reach me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ShivaKumarKanneboina) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:beginsample36@gmail.com)  
+- ⚡ **Fun fact:** I once debugged for 3 hours only to find a missing semicolon 😅. | ![Currently Working GIF](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif) |
 
 
 
