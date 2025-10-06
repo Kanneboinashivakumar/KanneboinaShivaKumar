@@ -194,14 +194,6 @@ Team Collaboration       █████████████████░�
 
 ## Snake animation
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Kanneboinashivakumar/Kanneboinashivakumar/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -217,8 +209,7 @@ Team Collaboration       █████████████████░�
   />
 </picture>
 
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0f0c29,302b63,24243e&height=130&section=footer&text=%F0%9F%8C%8C+Kanneboina+Shiva+Kumar+|+Code+%F0%9F%9A%80+Innovate+%F0%9F%92%A1&fontSize=28&animation=twinkling"/>
 
