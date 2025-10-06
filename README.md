@@ -18,13 +18,15 @@
 
 <!-- About Me Section with GIF -->
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-  <!-- Heading -->
-  <h2 style="margin: 0;">👨‍💻 About Me</h2>
+  
+  <!-- Heading wrapped in a div -->
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <h2 style="margin: 0;">👨‍💻 About Me</h2>
+    <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" 
+         alt="About Me GIF" 
+         style="width:80px; height:80px; object-fit: cover;" />
+  </div>
 
-  <!-- GIF -->
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" 
-       alt="About Me GIF" 
-       style="width:100px; height:100px; object-fit: cover;" />
 </div>
 
 ```python
@@ -41,16 +43,11 @@ def say_hi(self):
 me = DataScientist()
 me.say_hi()
 ```
- <div style="display: flex; align-items: flex-start; justify-content: center; gap: 20px;">
-  <!-- Image Section -->
-  <div style="flex: 1; min-width: 300px; max-width: 50%; text-align: center;">
-    <img src="https://your-profile-image-url.jpg" 
-         alt="Profile Image" 
-         style="width: 100%; height: 400px; object-fit: cover; border-radius: 8px;" />
-  </div>
+ <!-- Currently Working Section with GIF -->
+<div style="display: flex; align-items: flex-start; gap: 30px; flex-wrap: wrap;">
 
-  <!-- Text Section -->
-  <div style="flex: 1; min-width: 300px; max-width: 50%;">
+  <!-- Text Section (Left) -->
+  <div style="flex: 1; min-width: 300px;">
     🔭 <b>Currently working on:</b> LokSathi – India's first citizen companion.<br/>
     🌱 <b>Learning:</b> Machine Learning & Advanced DSA with hands-on projects.<br/>
     💡 <b>Interests:</b> Full-Stack Development, AI/ML, Open Source, Problem Solving.<br/>
@@ -65,7 +62,16 @@ me.say_hi()
     </a><br/>
     ⚡ <b>Fun fact:</b> I once debugged for 3 hours only to find a missing semicolon 😅.
   </div>
+
+  <!-- GIF Section (Right) -->
+  <div style="flex: 1; min-width: 200px; text-align: center;">
+    <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" 
+         alt="Currently Working GIF" 
+         style="width:150px; height:150px; object-fit: cover;"/>
+  </div>
+
 </div>
+
 
 
 ---
