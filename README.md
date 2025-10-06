@@ -159,6 +159,46 @@ Team Collaboration       █████████████████░�
 
 ---
 
+### 🎛️ Live Innovation Control Panel
+
+<p align="center">
+
+```mermaid
+graph TB
+    %% Main Innovation Workflow
+    A[🎯 Vision] --> B[💡 Ideation]
+    B --> C[⚡ Prototyping]
+    C --> D[🚀 Development]
+    D --> E[🎨 Innovation]
+    E --> F[🌍 Impact]
+    F --> A
+    
+    %% Future Tech Workflow
+    A1[🔮 Future Tech] --> B1[🤖 AI/ML Integration]
+    B1 --> C1[🌐 Web3 Ready]
+    C1 --> D1[📱 Mobile First]
+    D1 --> E1[☁️ Cloud Native]
+    E1 --> F1[🎯 User Centric]
+    
+    %% Main workflow colors
+    style A fill:#00D4FF,color:#000
+    style B fill:#FF6B6B,color:#fff
+    style C fill:#4ECDC4,color:#000
+    style D fill:#45B7D1,color:#fff
+    style E fill:#96CEB4,color:#000
+    style F fill:#FFEAA7,color:#000
+
+    %% Future Tech colors
+    style A1 fill:#9B59B6,color:#fff
+    style B1 fill:#F39C12,color:#000
+    style C1 fill:#1ABC9C,color:#000
+    style D1 fill:#E74C3C,color:#fff
+    style E1 fill:#3498DB,color:#fff
+    style F1 fill:#2ECC71,color:#000
+```
+</p>
+
+
 ## 💡 Quote of the Day
 
 <div align="center">
@@ -211,9 +251,4 @@ Team Collaboration       █████████████████░�
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0,0f0c29,302b63,24243e&height=130&section=footer&text=%F0%9F%8C%8C+Kanneboina+Shiva+Kumar+%7C+Code+%F0%9F%9A%80+Innovate+%F0%9F%92%A1&fontSize=28&animation=twinkling">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0,fef9ef,ddf5e9,a8e6cf&height=130&section=footer&text=%F0%9F%8C%8C+Kanneboina+Shiva+Kumar+%7C+Code+%F0%9F%9A%80+Innovate+%F0%9F%92%A1&fontSize=28&animation=twinkling">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,0f0c29,302b63,24243e&height=130&section=footer&text=%F0%9F%8C%8C+Kanneboina+Shiva+Kumar+%7C+Code+%F0%9F%9A%80+Innovate+%F0%9F%92%A1&fontSize=28&animation=twinkling" alt="Waving capsule footer with name and tagline">
-</picture>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
