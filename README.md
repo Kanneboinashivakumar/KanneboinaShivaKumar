@@ -211,5 +211,22 @@ Team Collaboration       █████████████████░�
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0f0c29,302b63,24243e&height=130&section=footer&text=%F0%9F%8C%8C+Kanneboina+Shiva+Kumar+|+Code+%F0%9F%9A%80+Innovate+%F0%9F%92%A1&fontSize=28&animation=twinkling"/>
-
+<picture>
+  <!-- Dark mode version -->
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=0,0f0c29,302b63,24243e&height=130&section=footer&text=%F0%9F%8C%8C+Kanneboina+Shiva+Kumar+|+Code+%F0%9F%9A%80+Innovate+%F0%9F%92%A1&fontSize=28&animation=twinkling"
+  />
+  
+  <!-- Light mode version -->
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=ff6ec7,00d4ff,ffde00&height=130&section=footer&text=%F0%9F%8C%8C+Kanneboina+Shiva+Kumar+|+Code+%F0%9F%9A%80+Innovate+%F0%9F%92%A1&fontSize=28&animation=twinkling"
+  />
+  
+  <!-- Fallback -->
+  <img
+    alt="Futuristic Capsule Banner"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0,0f0c29,302b63,24243e&height=130&section=footer&text=%F0%9F%8C%8C+Kanneboina+Shiva+Kumar+|+Code+%F0%9F%9A%80+Innovate+%F0%9F%92%A1&fontSize=28&animation=twinkling"
+  />
+</picture>
