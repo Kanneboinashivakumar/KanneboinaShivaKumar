@@ -74,14 +74,13 @@ me.say_hi()
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kanneboinashivakumar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanneboinashivakumar&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kanneboinashivakumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Kanneboinashivakumar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanneboinashivakumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kanneboinashivakumar&theme=dark" alt="GitHub Streak Stats" />
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=Kanneboinashivakumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <p align="center">
