@@ -79,7 +79,10 @@ me.say_hi()
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanneboinashivakumar&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kanneboinashivakumar&theme=dark)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Kanneboinashivakumar&theme=dark" alt="GitHub Streak Stats" />
+</p>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kanneboinashivakumar&theme=tokyonight&no-frame=true&row=1" alt="trophy" />
