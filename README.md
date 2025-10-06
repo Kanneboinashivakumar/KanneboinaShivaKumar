@@ -5,7 +5,8 @@
 
 <div align="center">
 
-# 🚀 Hi there, I'm Kanneboina Shiva Kumar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# 🚀 Hi there, I'm Kanneboina Shiva Kumar! <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="35">
+
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Kanneboinashivakumar&color=blueviolet&style=for-the-badge)](https://github.com/Kanneboinashivakumar)
 [![GitHub followers](https://img.shields.io/github/followers/Kanneboinashivakumar?style=for-the-badge&color=blue)](https://github.com/Kanneboinashivakumar?tab=followers)
