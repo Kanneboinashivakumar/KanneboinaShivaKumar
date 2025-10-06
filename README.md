@@ -16,20 +16,16 @@
 
 ---
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <!-- Heading Section -->
-  <div style="flex: 1; min-width: 200px;">
-    <h2>👨‍💻 About Me</h2>
-  </div>
+<!-- About Me Section with GIF -->
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <!-- Heading -->
+  <h2 style="margin: 0;">👨‍💻 About Me</h2>
 
-  <!-- GIF Section -->
-  <div style="flex: 1; min-width: 200px; text-align: center;">
-    <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" 
-         alt="About Me GIF" 
-         style="width: 100%; max-width: 150px; height: auto;" />
-  </div>
+  <!-- GIF -->
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" 
+       alt="About Me GIF" 
+       style="width:100px; height:100px; object-fit: cover;" />
 </div>
-
 
 ```python
 class SoftwareDeveloper:
