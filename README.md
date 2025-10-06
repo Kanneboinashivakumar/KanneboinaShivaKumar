@@ -74,7 +74,6 @@ me.say_hi()
 
 ## 📊 GitHub Analytics
 
-# 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kanneboinashivakumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Kanneboinashivakumar&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
