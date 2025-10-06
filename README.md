@@ -12,7 +12,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Kanneboinashivakumar?style=for-the-badge&color=blue)](https://github.com/Kanneboinashivakumar?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/Kanneboinashivakumar?style=for-the-badge&color=yellow)](https://github.com/Kanneboinashivakumar?tab=repositories)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Full+Stack+Developer+%7C+ML+Enthusiast;Building+LokSathi+%7C+Open+Source+Contributor;Problem+Solver+%7C+Innovative+Thinker" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Full+Stack+Developer+%7C+ML+Enthusiast;Building+LokSathi+%7C+Open+Source+Contributor;Problem+Solver+%7C+Anime+Fan" alt="Typing SVG" />
 </div>
 
 ---
@@ -217,7 +217,7 @@ graph TB
 
 <img src="https://user-images.githubusercontent.com/74038190/212259464-9d8ae5bc-7708-4ff7-be1e-cea9d8159ecc.jpg" width="200" alt="Profile Image">
 <br>
-
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-kumar-kannaeboina-b6a844298/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kanneboinashivakumar.github.io/portfolio/)
