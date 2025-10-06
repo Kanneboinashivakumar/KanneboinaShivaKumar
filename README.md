@@ -16,18 +16,7 @@
 
 ---
 
-<!-- About Me Section with GIF -->
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
-  
-  <!-- Heading wrapped in a div -->
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <h2 style="margin: 0;">👨‍💻 About Me</h2>
-    <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" 
-         alt="About Me GIF" 
-         style="width:80px; height:80px; object-fit: cover;" />
-  </div>
-
-</div>
+## 👨‍💻 About Me
 
 ```python
 class SoftwareDeveloper:
@@ -43,34 +32,10 @@ def say_hi(self):
 me = DataScientist()
 me.say_hi()
 ```
- <!-- Currently Working Section with GIF -->
-<div style="display: flex; align-items: flex-start; gap: 30px; flex-wrap: wrap;">
+| 🔭 Currently working on | ![GIF](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif) |
+|------------------------|----------------------------------------------------------------------------------------------------------------|
+| 🌱 Learning: Machine Learning & Advanced DSA with hands-on projects.<br>💡 Interests: Full-Stack Development, AI/ML, Open Source, Problem Solving.<br>🤝 Looking to collaborate on: Innovative projects that create impact.<br>🎯 2025 Goals: Master ML algorithms, Contribute to 5+ open source projects.<br>📫 Reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ShivaKumarKanneboina) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:beginsample36@gmail.com)<br>⚡ Fun fact: I once debugged for 3 hours only to find a missing semicolon 😅. | 
 
-  <!-- Text Section (Left) -->
-  <div style="flex: 1; min-width: 300px;">
-    🔭 <b>Currently working on:</b> LokSathi – India's first citizen companion.<br/>
-    🌱 <b>Learning:</b> Machine Learning & Advanced DSA with hands-on projects.<br/>
-    💡 <b>Interests:</b> Full-Stack Development, AI/ML, Open Source, Problem Solving.<br/>
-    🤝 <b>Looking to collaborate on:</b> Innovative projects that create impact.<br/>
-    🎯 <b>2025 Goals:</b> Master ML algorithms, Contribute to 5+ open source projects.<br/>
-    📫 <b>Reach me:</b> 
-    <a href="https://linkedin.com/in/ShivaKumarKanneboina">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:beginsample36@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-    </a><br/>
-    ⚡ <b>Fun fact:</b> I once debugged for 3 hours only to find a missing semicolon 😅.
-  </div>
-
-  <!-- GIF Section (Right) -->
-  <div style="flex: 1; min-width: 200px; text-align: center;">
-    <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" 
-         alt="Currently Working GIF" 
-         style="width:150px; height:150px; object-fit: cover;"/>
-  </div>
-
-</div>
 
 
 
