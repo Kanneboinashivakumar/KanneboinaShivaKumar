@@ -29,13 +29,13 @@ me = DataScientist()
 me.say_hi()
 ```
 
-- 🔭 **Currently working on:** LokSathi – India's first citizen companion [attached_file:1][memory:2]
-- 🌱 **Learning:** Machine Learning & Advanced DSA with hands-on projects [attached_file:1][memory:3]
-- 💡 **Interests:** Full-Stack Development, AI/ML, Open Source, Problem Solving [attached_file:1][memory:4]
-- 🤝 **Looking to collaborate on:** Innovative projects that create impact [attached_file:1][memory:1]
-- 🎯 **2025 Goals:** Master ML algorithms, Contribute to 5+ open source projects [attached_file:1][memory:6]
+- 🔭 **Currently working on:** LokSathi – India's first citizen companion.
+- 🌱 **Learning:** Machine Learning & Advanced DSA with hands-on projects.
+- 💡 **Interests:** Full-Stack Development, AI/ML, Open Source, Problem Solving.
+- 🤝 **Looking to collaborate on:** Innovative projects that create impact.
+- 🎯 **2025 Goals:** Master ML algorithms, Contribute to 5+ open source projects .
 - 📫 **Reach me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ShivaKumarKanneboina) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:beginsample36@gmail.com)
-- ⚡ **Fun fact:** I once debugged for 3 hours only to find a missing semicolon 😅 [attached_file:1]
+- ⚡ **Fun fact:** I once debugged for 3 hours only to find a missing semicolon 😅.
 
 ---
 
@@ -124,11 +124,11 @@ me.say_hi()
   <img src="https://github-profile-trophy.vercel.app/?username=Kanneboinashivakumar&theme=tokyonight&no-frame=true&column=7" alt="trophy" />
 </p>
 
-- ✅ **LokSathi Developer** - Building India's first citizen companion platform [attached_file:1][memory:2]
-- ✅ **Smart India Hackathon Participant** - Developed transliteration applications [attached_file:1][memory:3]
-- ✅ **Multi-language Programmer** - Proficient in 5+ programming languages [attached_file:1][memory:4]
-- ✅ **Open Source Contributor** - Active in community projects [attached_file:1][memory:1]
-- 🎯 **Problem Solver** - Strong DSA and algorithmic thinking skills [attached_file:1][memory:6]
+- ✅ LokSathi Developer – Building India’s first citizen companion platform
+- ✅ Smart India Hackathon Participant – Techlead of Bharat Akshar, an innovative transliteration app
+- ✅ Multi-language Programmer – Proficient in 5+ programming languages
+- ✅ Open Source Contributor – Actively contributing to community projects
+- 🎯 Problem Solver – Strong DSA and algorithmic thinking skills
 
 ---
 
@@ -150,13 +150,12 @@ Team Collaboration       █████████████████░�
 ## 📈 Coding Activity
 
 ```text
-<!--START_SECTION:waka-->
+
 🌅 Morning     ██████████░░░░░░░ 40%
 🌆 Daytime     █████████████░░░░ 65%
 🌃 Evening     ████████░░░░░░░░░ 35%
 🌙 Night       ████░░░░░░░░░░░░░ 70%
 ```
-<!--END_SECTION:waka-->
 
 ---
 
@@ -174,7 +173,7 @@ Team Collaboration       █████████████████░�
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ShivaKumarKanneboina)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/ShivaKumarKanneboina](https://www.linkedin.com/in/shiva-kumar-kannaeboina-b6a844298/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kanneboinashivakumar.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beginsample36@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kanneboinashivakumar)
@@ -203,4 +202,23 @@ Team Collaboration       █████████████████░�
 
 ---
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
