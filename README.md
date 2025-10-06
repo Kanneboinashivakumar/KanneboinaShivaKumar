@@ -89,10 +89,6 @@ me.say_hi()
   <img src="https://github-contributor-stats.vercel.app/api?username=Kanneboinashivakumar&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kanneboinashivakumar&theme=tokyonight&no-frame=true&row=1" alt="trophy" />
-</p>
-
 ---
 
 ## 🚀 Featured Projects
