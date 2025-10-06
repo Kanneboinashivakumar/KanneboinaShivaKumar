@@ -6,7 +6,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/Kanneboinashivakumar?style=for-the-badge&color=blue)](https://github.com/Kanneboinashivakumar?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/Kanneboinashivakumar?style=for-the-badge&color=yellow)](https://github.com/Kanneboinashivakumar?tab=repositories)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Full+Stack+Developer+%7C+ML+Enthusiast;Building+LokSathi+%7C+Open+Source;Problem+Solver+%7C+Innovative+Thinker" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Full+Stack+Developer+%7C+ML+Enthusiast;Building+LokSathi+%7C+Open+Source+Contributor;Problem+Solver+%7C+Innovative+Thinker" alt="Typing SVG" />
 </div>
 
 ---
@@ -79,9 +79,7 @@ me.say_hi()
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanneboinashivakumar&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kanneboinashivakumar&theme=tokyonight" alt="GitHub Streak Stats" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kanneboinashivakumar&theme=dark)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kanneboinashivakumar&theme=tokyonight&no-frame=true&row=1" alt="trophy" />
