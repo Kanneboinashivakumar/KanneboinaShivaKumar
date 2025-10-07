@@ -33,9 +33,9 @@ def say_hi(self):
 me = DataScientist()
 me.say_hi()
 ```
-|-------------------|------------------|
-| 🔭 **Currently working on:** LokSathi – India's first citizen companion.<br>🌱 **Learning:** Machine Learning & Advanced DSA with hands-on projects.<br>💡 **Interests:** Full-Stack Development, AI/ML, Open Source, Problem Solving.<br>🤝 **Looking to collaborate on:** Innovative projects that create impact.<br>🎯 **2025 Goals:** Master ML algorithms, Contribute to 5+ open source projects.<br>📫 **Reach me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ShivaKumarKanneboina) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:beginsample36@gmail.com)<br>🛠️ **Open Source:** Contributing to BharatAkshar & WGER.<br>🚀 **Projects:** Web apps & APIs with Flask & React.<br>📚 **Skills:** Exploring AWS/Azure & improving coding practices.<br>⚡ **Fun fact:** I once debugged for 3 hours only to find a missing semicolon 😅. | <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" height="350" width="400"/> |
-
+| 💬 **About Me** | 🎞️ **Visual Vibe** |
+|-----------------|-------------------|
+| 🔭 **Currently working on:** LokSathi – India's first citizen companion.<br>🌱 **Learning:** Machine Learning & Advanced DSA with hands-on projects.<br>💡 **Interests:** Full-Stack Development, AI/ML, Open Source, Problem Solving.<br>🤝 **Looking to collaborate on:** Innovative projects that create impact.<br>🎯 **2025 Goals:** Master ML algorithms, Contribute to 5+ open source projects.<br>📫 **Reach me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ShivaKumarKanneboina) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:beginsample36@gmail.com)<br>🛠️ **Open Source:** Contributing to BharatAkshar & WGER.<br>🚀 **Projects:** Web apps & APIs with Flask & React.<br>📚 **Skills:** Exploring AWS/Azure & improving coding practices.<br>⚡ **Fun fact:** I once debugged for 3 hours only to find a missing semicolon 😅. | <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="430"/> |
 
 ---
 
