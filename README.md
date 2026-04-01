@@ -121,6 +121,8 @@ me.say_hi()
 
 ## 🏆 Achievements & Certifications
 
+![Trophy](https://github-profile-trophy.vercel.app/?username=Kanneboinashivakumar&theme=tokyonight&no-frame=true&column=7)
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kanneboinashivakumar&theme=tokyonight&no-frame=true&column=7" alt="trophy" />
 </p>
