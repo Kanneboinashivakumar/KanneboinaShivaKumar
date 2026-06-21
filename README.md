@@ -21,21 +21,22 @@
 
 ```python
 class SoftwareDeveloper:
-def init(self):
-self.name = "Kanneboina Shiva Kumar"
-self.role = "BTech 3rd Year Student,Full Stack Developer & ML Enthusiast"
-self.location = "India 🇮🇳"
-self.passions = ["Web Development", "Machine Learning", "Open Source", "Innovation"]
-self.current_focus = "Building LokSathi - India's first citizen companion"
+    def __init__(self):
+        self.name = "Kanneboina Shiva Kumar"
+        self.role = "BTech 3rd Year Student, Full Stack Developer & ML Enthusiast"
+        self.location = "India 🇮🇳"
+        self.passions = ["Web Development", "Machine Learning", "Open Source", "Innovation"]
+        self.current_focus = "Building LokSathi & LIFEOS"
 
-def say_hi(self):
-    print("My programs run seamlessly, letting bugs sleep in peace 😴")
-me = DataScientist()
+    def say_hi(self):
+        print("My programs run seamlessly, letting bugs sleep in peace 😴")
+
+me = SoftwareDeveloper()
 me.say_hi()
 ```
 | 💬 **Code & Curiosity** | 🎞️ **Visual Vibe** |
 |-----------------|-------------------|
-| 🔭 **Currently working on:** LokSathi – India's first citizen companion.<br>🌱 **Learning:** Machine Learning & Advanced DSA with hands-on projects.<br>💡 **Interests:** Full-Stack Development, AI/ML, Open Source, Problem Solving.<br>🤝 **Looking to collaborate on:** Innovative projects that create impact.<br>🎯 **2025 Goals:** Master ML algorithms, Contribute to 5+ open source projects.<br>📫 **Reach me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ShivaKumarKanneboina) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:beginsample36@gmail.com)<br>🛠️ **Open Source:** Contributing to BharatAkshar & WGER.<br>🚀 **Projects:** Web apps & APIs with Flask & React.<br>📚 **Skills:** Exploring AWS/Azure & improving coding practices.<br>⚡ **Fun fact:** I once debugged for 3 hours only to find a missing semicolon 😅. | <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400"/> |
+| 🔭 **Currently working on:** LokSathi (Citizen Companion) & [LIFEOS](https://github.com/Kanneboinashivakumar/LifeOS) (Gamified RPG Productivity Hub).<br>🌱 **Learning:** Advanced Machine Learning, System Architecture, & Cloud Engineering.<br>💡 **Interests:** Full-Stack Development, AI/ML, Open Source, Performance Optimization.<br>🤝 **Looking to collaborate on:** High-impact platforms and developer tooling.<br>🎯 **Goals:** Expand LIFEOS features, deploy production containers, and contribute to community projects.<br>📫 **Reach me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ShivaKumarKanneboina) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:beginsample36@gmail.com)<br>🛠️ **Open Source:** Contributing to BharatAkshar, WGER, and other systems.<br>🚀 **Projects:** Scaled web apps and containerized deployments.<br>📚 **Skills:** Advanced TypeScript, Next.js standalone builds, Docker, and GCP.<br>⚡ **Fun fact:** I once spent 3 hours debugging only to find out a regional formatting hydration mismatch 😅. | <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400"/> |
 
 ---
 
@@ -93,29 +94,41 @@ me.say_hi()
 
 ## 🚀 Featured Projects
 
-| 🎯 LokSathi - Citizen Companion | 🌐 BharatAkshar - Language Platform |
-|--------------------------------|------------------------------------|
-| [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge)](https://github.com/Kanneboinashivakumar) | [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://kanneboinashivakumar.github.io/BharatAkshar/) [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge)](https://github.com/Kanneboinashivakumar/BharatAkshar) |
-| India's first comprehensive citizen companion platform | Multi-language Indian learning platform with transliteration |
-| **Tech Stack:** React • Node.js • MongoDB • Python • ML | **Tech Stack:** HTML5 • CSS3 • JavaScript • Python |
+| 🎯 LokSathi - Citizen Companion | 🌌 LIFEOS - Gamified RPG Productivity |
+|--------------------------------|--------------------------------------|
+| [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge)](https://github.com/Kanneboinashivakumar) | [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://lifeos-app-179120008102.us-central1.run.app/) [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge)](https://github.com/Kanneboinashivakumar/LifeOS) |
+| India's first comprehensive citizen companion platform | Gamified Personal Growth RPG & Deep Work Hub |
+| **Tech Stack:** React • Node.js • MongoDB • Python • ML | **Tech Stack:** Next.js 16 • React 19 • Tailwind CSS v4 • Framer Motion • Spline 3D • Docker • GCP |
 | **✨ Features:** | **✨ Features:** |
-| • Citizen services integration | • Multiple Indian languages |
-| • Real-time updates | • Interactive learning |
-| • Multi-language support | • Cultural integration |
-| • AI-powered assistance | • Progress tracking |
-| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| • Citizen services integration | • Interactive mouse-following 3D robot interface |
+| • Real-time notifications and updates | • Pomodoro focus protocols with active XP gains |
+| • Multi-language interface support | • Dynamic consistency streaks & rank multipliers |
+| • AI-powered client assistance | • Production containerized Cloud Run orchestration |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 
-| 💼 Personal Portfolio | 🤖 ML Projects Collection |
-|-----------------------|---------------------------|
-| [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://kanneboinashivakumar.github.io/portfolio/) [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge)](https://github.com/Kanneboinashivakumar/portfolio) | [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge)](https://github.com/Kanneboinashivakumar) |
-| Modern portfolio with interactive elements | Various Machine Learning implementations |
-| **Tech Stack:** HTML5 • CSS3 • JavaScript • GSAP | **Tech Stack:** Python • Scikit-learn • TensorFlow • Pandas • NumPy |
+| 🌐 BharatAkshar - Language Platform | 🤖 ML Projects Collection |
+|------------------------------------|---------------------------|
+| [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://kanneboinashivakumar.github.io/BharatAkshar/) [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge)](https://github.com/Kanneboinashivakumar/BharatAkshar) | [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge)](https://github.com/Kanneboinashivakumar) |
+| Multi-language Indian learning platform with transliteration | Various Machine Learning implementations |
+| **Tech Stack:** HTML5 • CSS3 • JavaScript • Python | **Tech Stack:** Python • Scikit-learn • TensorFlow • Pandas • NumPy |
 | **✨ Features:** | **✨ Features:** |
-| • Smooth animations | • Data preprocessing |
-| • Responsive design | • Model training |
-| • Project showcase | • Visualization |
-| • Contact integration | • Performance metrics |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
+| • Multiple Indian languages support | • Advanced data preprocessing pipelines |
+| • Interactive learning and games | • Predictive models training and evaluation |
+| • Cultural and regional integration | • Live visualizations and telemetry |
+| • Learning progress tracking | • Performance metrics logs |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
+
+| 💼 Personal Portfolio | |
+|-----------------------|---|
+| [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://kanneboinashivakumar.github.io/portfolio/) [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge)](https://github.com/Kanneboinashivakumar/portfolio) | |
+| Modern portfolio with interactive elements | |
+| **Tech Stack:** HTML5 • CSS3 • JavaScript • GSAP | |
+| **✨ Features:** | |
+| • Smooth scrolling and transitions | |
+| • Responsive layout mechanics | |
+| • Detailed project showcase grid | |
+| • Contact form integration | |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | |
 
 ---
 
