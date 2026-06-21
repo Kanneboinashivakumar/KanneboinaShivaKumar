@@ -118,17 +118,17 @@ me.say_hi()
 | • Learning progress tracking | • Performance metrics logs |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
 
-| 💼 Personal Portfolio | |
-|-----------------------|---|
-| [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://kanneboinashivakumar.github.io/portfolio/) [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge)](https://github.com/Kanneboinashivakumar/portfolio) | |
-| Modern portfolio with interactive elements | |
-| **Tech Stack:** HTML5 • CSS3 • JavaScript • GSAP | |
-| **✨ Features:** | |
-| • Smooth scrolling and transitions | |
-| • Responsive layout mechanics | |
-| • Detailed project showcase grid | |
-| • Contact form integration | |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | |
+| 💼 Personal Portfolio | 🏥 NexQueue - Smart Queue System |
+|-----------------------|----------------------------------|
+| [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://kanneboinashivakumar.github.io/portfolio/) [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge)](https://github.com/Kanneboinashivakumar/portfolio) | [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge)](https://github.com/Kanneboinashivakumar/nexqueue) |
+| Modern portfolio with interactive elements | Smart hospital queue management and pharmacy routing system |
+| **Tech Stack:** HTML5 • CSS3 • JavaScript • GSAP | **Tech Stack:** React • Node.js • MongoDB • Socket.io |
+| **✨ Features:** | **✨ Features:** |
+| • Smooth scrolling and transitions | • Priority-based queuing (Emergency > Senior > Normal) |
+| • Responsive layout mechanics | • Real-time patient updates and routing |
+| • Detailed project showcase grid | • Integrated lab and pharmacy workflows |
+| • Contact form integration | • Live state synchronization and notifications |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) |
 
 ---
 
@@ -227,7 +227,7 @@ graph TB
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212259464-9d8ae5bc-7708-4ff7-be1e-cea9d8159ecc.jpg" width="200" alt="Profile Image">
+<img src="https://github.com/Kanneboinashivakumar.png" width="200" style="border-radius: 50%" alt="Profile Image">
 <br>
 <br>
 
