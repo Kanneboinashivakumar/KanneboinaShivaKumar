@@ -94,48 +94,48 @@ me.say_hi()
 
 ## 🚀 Featured Projects
 
-| 🎯 LokSathi - Citizen Companion | 🌌 LIFEOS - Gamified RPG Productivity |
-|--------------------------------|--------------------------------------|
-| [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge)](https://github.com/Kanneboinashivakumar) | [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://lifeos-app-179120008102.us-central1.run.app/) [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge)](https://github.com/Kanneboinashivakumar/LifeOS) |
-| India's first comprehensive citizen companion platform | Gamified Personal Growth RPG & Deep Work Hub |
-| **Tech Stack:** React • Node.js • MongoDB • Python • ML | **Tech Stack:** Next.js 16 • React 19 • Tailwind CSS v4 • Framer Motion • Spline 3D • Docker • GCP |
+| 🏥 NexQueue - Smart Queue System | 🌌 LIFEOS - Gamified RPG Productivity |
+|----------------------------------|--------------------------------------|
+| [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge)](https://github.com/Kanneboinashivakumar/nexqueue) | [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://lifeos-app-179120008102.us-central1.run.app/) [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge)](https://github.com/Kanneboinashivakumar/LifeOS) |
+| Smart hospital queue management and pharmacy routing system | Gamified Personal Growth RPG & Deep Work Hub |
+| **Tech Stack:** React • Node.js • MongoDB • Socket.io | **Tech Stack:** Next.js 16 • React 19 • Tailwind CSS v4 • Framer Motion • Spline 3D • Docker • GCP |
 | **✨ Features:** | **✨ Features:** |
-| • Citizen services integration | • Interactive mouse-following 3D robot interface |
-| • Real-time notifications and updates | • Pomodoro focus protocols with active XP gains |
-| • Multi-language interface support | • Dynamic consistency streaks & rank multipliers |
-| • AI-powered client assistance | • Production containerized Cloud Run orchestration |
+| • Priority-based queuing (Emergency > Senior > Normal) | • Interactive mouse-following 3D robot interface |
+| • Real-time patient updates and routing | • Pomodoro focus protocols with active XP gains |
+| • Integrated lab and pharmacy workflows | • Dynamic consistency streaks & rank multipliers |
+| • Live state synchronization and notifications | • Production containerized Cloud Run orchestration |
 | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 
-| 🌐 BharatAkshar - Language Platform | 🤖 ML Projects Collection |
-|------------------------------------|---------------------------|
-| [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://kanneboinashivakumar.github.io/BharatAkshar/) [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge)](https://github.com/Kanneboinashivakumar/BharatAkshar) | [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge)](https://github.com/Kanneboinashivakumar) |
-| Multi-language Indian learning platform with transliteration | Various Machine Learning implementations |
-| **Tech Stack:** HTML5 • CSS3 • JavaScript • Python | **Tech Stack:** Python • Scikit-learn • TensorFlow • Pandas • NumPy |
+| 🎯 LokSathi - Citizen Companion | 🌐 BharatAkshar - Language Platform |
+|--------------------------------|------------------------------------|
+| [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge)](https://github.com/Kanneboinashivakumar) | [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://kanneboinashivakumar.github.io/BharatAkshar/) [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge)](https://github.com/Kanneboinashivakumar/BharatAkshar) |
+| India's first comprehensive citizen companion platform | Multi-language Indian learning platform with transliteration |
+| **Tech Stack:** React • Node.js • MongoDB • Python • ML | **Tech Stack:** HTML5 • CSS3 • JavaScript • Python |
 | **✨ Features:** | **✨ Features:** |
-| • Multiple Indian languages support | • Advanced data preprocessing pipelines |
-| • Interactive learning and games | • Predictive models training and evaluation |
-| • Cultural and regional integration | • Live visualizations and telemetry |
-| • Learning progress tracking | • Performance metrics logs |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
+| • Citizen services integration | • Multiple Indian languages support |
+| • Real-time updates | • Interactive learning and games |
+| • Multi-language support | • Cultural and regional integration |
+| • AI-powered assistance | • Learning progress tracking |
+| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 
-| 💼 Personal Portfolio | 🏥 NexQueue - Smart Queue System |
-|-----------------------|----------------------------------|
-| [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://kanneboinashivakumar.github.io/portfolio/) [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge)](https://github.com/Kanneboinashivakumar/portfolio) | [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge)](https://github.com/Kanneboinashivakumar/nexqueue) |
-| Modern portfolio with interactive elements | Smart hospital queue management and pharmacy routing system |
-| **Tech Stack:** HTML5 • CSS3 • JavaScript • GSAP | **Tech Stack:** React • Node.js • MongoDB • Socket.io |
+| 💼 Personal Portfolio | 🤖 ML Projects Collection |
+|-----------------------|---------------------------|
+| [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://kanneboinashivakumar.github.io/portfolio/) [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge)](https://github.com/Kanneboinashivakumar/portfolio) | [![Repo](https://img.shields.io/badge/Repo-View-blue?style=for-the-badge)](https://github.com/Kanneboinashivakumar) |
+| Modern portfolio with interactive elements | Various Machine Learning implementations |
+| **Tech Stack:** HTML5 • CSS3 • JavaScript • GSAP | **Tech Stack:** Python • Scikit-learn • TensorFlow • Pandas • NumPy |
 | **✨ Features:** | **✨ Features:** |
-| • Smooth scrolling and transitions | • Priority-based queuing (Emergency > Senior > Normal) |
-| • Responsive layout mechanics | • Real-time patient updates and routing |
-| • Detailed project showcase grid | • Integrated lab and pharmacy workflows |
-| • Contact form integration | • Live state synchronization and notifications |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) |
+| • Smooth scrolling and transitions | • Advanced data preprocessing pipelines |
+| • Responsive layout mechanics | • Predictive models training and evaluation |
+| • Detailed project showcase grid | • Live visualizations and telemetry |
+| • Contact form integration | • Performance metrics logs |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
 
 ---
 
 ## 🏆 Achievements & Certifications
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kanneboinashivakumar&theme=tokyonight&no-frame=true&column=7" alt="trophy" />
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=Kanneboinashivakumar&theme=tokyonight&no-frame=true&column=7" alt="trophy" />
 </p>
 
 - ✅ LokSathi Developer – Building India’s first citizen companion platform
@@ -227,7 +227,7 @@ graph TB
 
 <div align="center">
 
-<img src="https://github.com/Kanneboinashivakumar.png" width="200" style="border-radius: 50%" alt="Profile Image">
+<img src="https://user-images.githubusercontent.com/74038190/212259464-9d8ae5bc-7708-4ff7-be1e-cea9d8159ecc.jpg" width="200" alt="Profile Image">
 <br>
 <br>
 
