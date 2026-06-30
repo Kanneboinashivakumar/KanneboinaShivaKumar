@@ -78,12 +78,12 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="./github_stats.svg" alt="GitHub Stats" />
-  <img src="./top_languages.svg" alt="Top Languages" />
+  <img src="./github_stats.svg" alt="GitHub Stats" loading="lazy" />
+  <img src="./top_languages.svg" alt="Top Languages" loading="lazy" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanneboinashivakumar&custom_title=Contribution%20Graph&bg_color=1a1b26&color=70a5fd&line=73daca&point=ff9e64&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanneboinashivakumar&custom_title=Contribution%20Graph&bg_color=1a1b26&color=70a5fd&line=73daca&point=ff9e64&area=true&hide_border=true" width="100%" alt="Contribution Graph" loading="lazy" />
 </p>
 
 ---
