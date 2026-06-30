@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 35" width="200" height="35">
-  <path d="M 0,0 L 198,0 L 198,26 Q 198,34 190,34 L 0,34 Z" fill="#1a1b26" stroke="#2e3047" stroke-width="1.5"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 185 35" width="185" height="35">
+  <rect width="185" height="35" rx="6" fill="#24283b"/>
   <style>
     .btn-text { 
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; 
@@ -8,7 +8,7 @@
       fill: #73daca; 
     }
   </style>
-  <g transform="translate(55, 21)">
+  <g transform="translate(48, 22)">
     <!-- External Link Icon -->
     <path d="M12 13H2c-1.1 0-2-.9-2-2V1c0-1.1.9-2 2-2h6v2H2v10h10V6h2v6c0 1.1-.9 2-2 2zM9 1v2h3.59l-9.83 9.83 1.41 1.41L14 4.41V8h2V1H9z" fill="#73daca" transform="scale(0.85) translate(0, -3)"/>
     <text x="18" y="1" class="btn-text">Live Demo</text>

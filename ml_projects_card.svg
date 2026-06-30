@@ -1,5 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 145" width="400" height="145">
-  <path d="M 1,144 L 1,9 Q 1,1 9,1 L 391,1 Q 399,1 399,9 L 399,144 Z" fill="#1a1b26" stroke="#2e3047" stroke-width="1.5"/>
+  <rect width="400" height="145" rx="8" fill="#1a1b26"/>
+  <rect x="1" y="8" width="4" height="129" rx="2" fill="#70a5fd"/>
+  <text x="310" y="115" font-size="70" fill="#a9b1d6" fill-opacity="0.04" font-family="system-ui, -apple-system, sans-serif">🤖</text>
   <style>
     .title { 
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; 
@@ -52,8 +54,8 @@
   <!-- Features -->
   <g class="stagger-2" transform="translate(20, 82)">
     <text x="0" y="0" class="feature">• Advanced data preprocessing &amp; cleaning pipelines</text>
-    <text x="0" y="20" class="feature">• Predictive modeling, model training and metrics logs</text>
-    <text x="0" y="40" class="feature">• Real-time performance telemetry &amp; parameter tuning</text>
+    <text x="0" y="18" class="feature">• Predictive modeling, model training and metrics logs</text>
+    <text x="0" y="36" class="feature">• Real-time performance telemetry &amp; parameter tuning</text>
   </g>
   
   <!-- Tech Stack -->
