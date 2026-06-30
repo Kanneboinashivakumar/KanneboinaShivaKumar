@@ -18,36 +18,72 @@
       font-weight: bold; 
       fill: #73daca; 
     }
+    
+    @keyframes slideUpFade {
+      from {
+        opacity: 0;
+        transform: translateY(15px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+    
+    @keyframes fillProgress {
+      from {
+        width: 0px;
+      }
+    }
+    
+    .stagger-0 { animation: slideUpFade 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards; opacity: 0; }
+    .stagger-1 { animation: slideUpFade 0.6s cubic-bezier(0.16, 1, 0.3, 1) 0.1s forwards; opacity: 0; }
+    .stagger-2 { animation: slideUpFade 0.6s cubic-bezier(0.16, 1, 0.3, 1) 0.2s forwards; opacity: 0; }
+    .stagger-3 { animation: slideUpFade 0.6s cubic-bezier(0.16, 1, 0.3, 1) 0.3s forwards; opacity: 0; }
+    .stagger-4 { animation: slideUpFade 0.6s cubic-bezier(0.16, 1, 0.3, 1) 0.4s forwards; opacity: 0; }
+    
+    .bar-fill { animation: fillProgress 1.2s cubic-bezier(0.16, 1, 0.3, 1) forwards; }
   </style>
-  <text x="25" y="35" class="title">Top Languages</text>
+  
+  <g class="stagger-0">
+    <text x="25" y="35" class="title">Top Languages</text>
+  </g>
   
   <g transform="translate(25, 65)">
     <!-- TypeScript -->
-    <circle cx="5" cy="-4" r="5" fill="#3178c6"/>
-    <text x="20" y="0" class="label">TypeScript</text>
-    <text x="330" y="0" class="value" text-anchor="end">45.0%</text>
-    <rect x="20" y="6" width="310" height="6" rx="3" fill="#16161e"/>
-    <rect x="20" y="6" width="139.5" height="6" rx="3" fill="#3178c6"/>
+    <g class="stagger-1">
+      <circle cx="5" cy="-4" r="5" fill="#3178c6"/>
+      <text x="20" y="0" class="label">TypeScript</text>
+      <text x="330" y="0" class="value" text-anchor="end">45.0%</text>
+      <rect x="20" y="6" width="310" height="6" rx="3" fill="#16161e"/>
+      <rect x="20" y="6" width="139.5" height="6" rx="3" fill="#3178c6" class="bar-fill"/>
+    </g>
     
     <!-- JavaScript -->
-    <circle cx="5" cy="26" r="5" fill="#f7df1e"/>
-    <text x="20" y="30" class="label">JavaScript</text>
-    <text x="330" y="30" class="value" text-anchor="end">30.0%</text>
-    <rect x="20" y="36" width="310" height="6" rx="3" fill="#16161e"/>
-    <rect x="20" y="36" width="93" height="6" rx="3" fill="#f7df1e"/>
+    <g class="stagger-2">
+      <circle cx="5" cy="26" r="5" fill="#f7df1e"/>
+      <text x="20" y="30" class="label">JavaScript</text>
+      <text x="330" y="30" class="value" text-anchor="end">30.0%</text>
+      <rect x="20" y="36" width="310" height="6" rx="3" fill="#16161e"/>
+      <rect x="20" y="36" width="93" height="6" rx="3" fill="#f7df1e" class="bar-fill"/>
+    </g>
 
     <!-- Python -->
-    <circle cx="5" cy="56" r="5" fill="#3776ab"/>
-    <text x="20" y="60" class="label">Python</text>
-    <text x="330" y="60" class="value" text-anchor="end">15.0%</text>
-    <rect x="20" y="66" width="310" height="6" rx="3" fill="#16161e"/>
-    <rect x="20" y="66" width="46.5" height="6" rx="3" fill="#3776ab"/>
+    <g class="stagger-3">
+      <circle cx="5" cy="56" r="5" fill="#3776ab"/>
+      <text x="20" y="60" class="label">Python</text>
+      <text x="330" y="60" class="value" text-anchor="end">15.0%</text>
+      <rect x="20" y="66" width="310" height="6" rx="3" fill="#16161e"/>
+      <rect x="20" y="66" width="46.5" height="6" rx="3" fill="#3776ab" class="bar-fill"/>
+    </g>
 
     <!-- HTML/CSS -->
-    <circle cx="5" cy="86" r="5" fill="#e34f26"/>
-    <text x="20" y="90" class="label">HTML/CSS</text>
-    <text x="330" y="90" class="value" text-anchor="end">10.0%</text>
-    <rect x="20" y="96" width="310" height="6" rx="3" fill="#16161e"/>
-    <rect x="20" y="96" width="31" height="6" rx="3" fill="#e34f26"/>
+    <g class="stagger-4">
+      <circle cx="5" cy="86" r="5" fill="#e34f26"/>
+      <text x="20" y="90" class="label">HTML/CSS</text>
+      <text x="330" y="90" class="value" text-anchor="end">10.0%</text>
+      <rect x="20" y="96" width="310" height="6" rx="3" fill="#16161e"/>
+      <rect x="20" y="96" width="31" height="6" rx="3" fill="#e34f26" class="bar-fill"/>
+    </g>
   </g>
 </svg>
