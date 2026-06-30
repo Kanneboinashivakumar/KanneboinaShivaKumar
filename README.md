@@ -160,67 +160,17 @@ me.say_hi()
 
 ## 💼 Skills Matrix
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="30%"><b>Full Stack Development</b></td>
-      <td width="70%"><img src="https://geps.dev/progress/90?color=60a5fa" alt="90%" /></td>
-    </tr>
-    <tr>
-      <td><b>Machine Learning</b></td>
-      <td><img src="https://geps.dev/progress/75?color=818cf8" alt="75%" /></td>
-    </tr>
-    <tr>
-      <td><b>Data Structures</b></td>
-      <td><img src="https://geps.dev/progress/85?color=34d399" alt="85%" /></td>
-    </tr>
-    <tr>
-      <td><b>Python Programming</b></td>
-      <td><img src="https://geps.dev/progress/90?color=60a5fa" alt="90%" /></td>
-    </tr>
-    <tr>
-      <td><b>JavaScript/React</b></td>
-      <td><img src="https://geps.dev/progress/80?color=818cf8" alt="80%" /></td>
-    </tr>
-    <tr>
-      <td><b>Database Design</b></td>
-      <td><img src="https://geps.dev/progress/85?color=34d399" alt="85%" /></td>
-    </tr>
-    <tr>
-      <td><b>Problem Solving</b></td>
-      <td><img src="https://geps.dev/progress/95?color=ec4899" alt="95%" /></td>
-    </tr>
-    <tr>
-      <td><b>Team Collaboration</b></td>
-      <td><img src="https://geps.dev/progress/85?color=60a5fa" alt="85%" /></td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="./skills_matrix.svg" alt="Skills Matrix" width="100%" loading="lazy" />
+</p>
 
 ---
 
 ## 📈 Coding Activity
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="30%">🌅 Morning</td>
-      <td width="70%"><img src="https://geps.dev/progress/40?color=fbbf24" alt="40%" /></td>
-    </tr>
-    <tr>
-      <td>🌆 Daytime</td>
-      <td><img src="https://geps.dev/progress/65?color=3b82f6" alt="65%" /></td>
-    </tr>
-    <tr>
-      <td>🌃 Evening</td>
-      <td><img src="https://geps.dev/progress/35?color=8b5cf6" alt="35%" /></td>
-    </tr>
-    <tr>
-      <td>🌙 Night</td>
-      <td><img src="https://geps.dev/progress/70?color=6366f1" alt="70%" /></td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="./coding_activity.svg" alt="Coding Activity" width="100%" loading="lazy" />
+</p>
 
 ---
 

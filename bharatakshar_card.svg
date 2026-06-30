@@ -1,6 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 155" width="400" height="155">
-  <rect width="400" height="155" rx="8" fill="#1a1b26"/>
+  <defs>
+    <radialGradient id="bgGlow" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#1f2335">
+        <animate attributeName="stop-color" values="#1f2335;#292e42;#1f2335" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#1a1b26" />
+    </radialGradient>
+  </defs>
+  
+  <rect width="400" height="155" rx="8" fill="url(#bgGlow)"/>
   <rect x="1" y="8" width="4" height="139" rx="2" fill="#70a5fd"/>
+  
   <style>
     .title { 
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; 
@@ -30,22 +40,15 @@
       to { opacity: 1; }
     }
     
-    @keyframes floatWatermark {
-      0% { opacity: 0.03; transform: translateY(0px) scale(1); }
-      50% { opacity: 0.07; transform: translateY(-4px) scale(1.05); }
-      100% { opacity: 0.03; transform: translateY(0px) scale(1); }
-    }
-    
     .stagger-0 { animation: fadeIn 0.6s ease forwards; opacity: 0; }
     .stagger-1 { animation: fadeIn 0.6s ease 0.1s forwards; opacity: 0; }
     .stagger-2 { animation: fadeIn 0.6s ease 0.2s forwards; opacity: 0; }
     .stagger-3 { animation: fadeIn 0.6s ease 0.3s forwards; opacity: 0; }
     
     .watermark {
-      animation: floatWatermark 8s ease-in-out infinite;
-      transform-origin: 345px 95px;
       font-size: 70px;
       fill: #a9b1d6;
+      fill-opacity: 0.04;
       font-family: system-ui, -apple-system, sans-serif;
     }
   </style>
@@ -71,7 +74,7 @@
   </g>
   
   <!-- Tech Stack -->
-  <g class="stagger-3" transform="translate(20, 140)">
+  <g class="stagger-3" transform="translate(20, 131)">
     <circle cx="4" cy="-3" r="4" fill="#73daca"/>
     <text x="14" y="1" class="tech">HTML5 • CSS3 • JavaScript • Python</text>
   </g>

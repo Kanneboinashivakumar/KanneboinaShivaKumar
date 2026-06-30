@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 160" width="800" height="160">
+  <defs>
+    <radialGradient id="bgGlow" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#1f2335">
+        <animate attributeName="stop-color" values="#1f2335;#292e42;#1f2335" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#1a1b26" />
+    </radialGradient>
+  </defs>
+  
+  <rect width="800" height="160" rx="8" fill="url(#bgGlow)"/>
+  <rect x="1" y="8" width="4" height="144" rx="2" fill="#70a5fd"/>
+  
+  <style>
+    .title { 
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; 
+      font-size: 16px; 
+      font-weight: bold; 
+      fill: #70a5fd; 
+    }
+    .label { 
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; 
+      font-size: 13px; 
+      font-weight: bold; 
+      fill: #a9b1d6; 
+    }
+    .value { 
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; 
+      font-size: 12px; 
+      font-weight: bold; 
+      fill: #73daca; 
+    }
+    
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+    
+    @keyframes fillProgress {
+      from { width: 0px; }
+    }
+    
+    .stagger-0 { animation: fadeIn 0.6s ease forwards; opacity: 0; }
+    .stagger-1 { animation: fadeIn 0.6s ease 0.1s forwards; opacity: 0; }
+    .stagger-2 { animation: fadeIn 0.6s ease 0.2s forwards; opacity: 0; }
+    
+    .bar-fill { animation: fillProgress 1.5s cubic-bezier(0.16, 1, 0.3, 1) forwards; }
+  </style>
+
+  <!-- Title -->
+  <g class="stagger-0" transform="translate(25, 30)">
+    <text x="0" y="0" class="title">Coding Activity (Active Hours)</text>
+  </g>
+
+  <!-- Column 1 (Left) -->
+  <g transform="translate(25, 45)">
+    <!-- Item 1: Morning (40%) -->
+    <g class="stagger-1" transform="translate(0, 15)">
+      <text x="0" y="0" class="label">🌅 Morning (6:00 AM - 12:00 PM)</text>
+      <text x="350" y="0" class="value" text-anchor="end">40%</text>
+      <rect x="0" y="6" width="350" height="6" rx="3" fill="#16161e"/>
+      <rect x="0" y="6" width="140" height="6" rx="3" fill="#fbbf24" class="bar-fill"/>
+    </g>
+
+    <!-- Item 2: Daytime (65%) -->
+    <g class="stagger-2" transform="translate(0, 55)">
+      <text x="0" y="0" class="label">🌆 Daytime (12:00 PM - 6:00 PM)</text>
+      <text x="350" y="0" class="value" text-anchor="end">65%</text>
+      <rect x="0" y="6" width="350" height="6" rx="3" fill="#16161e"/>
+      <rect x="0" y="6" width="227.5" height="6" rx="3" fill="#3b82f6" class="bar-fill"/>
+    </g>
+  </g>
+
+  <!-- Column 2 (Right) -->
+  <g transform="translate(425, 45)">
+    <!-- Item 3: Evening (35%) -->
+    <g class="stagger-1" transform="translate(0, 15)">
+      <text x="0" y="0" class="label">🌃 Evening (6:00 PM - 12:00 AM)</text>
+      <text x="350" y="0" class="value" text-anchor="end">35%</text>
+      <rect x="0" y="6" width="350" height="6" rx="3" fill="#16161e"/>
+      <rect x="0" y="6" width="122.5" height="6" rx="3" fill="#8b5cf6" class="bar-fill"/>
+    </g>
+
+    <!-- Item 4: Night (70%) -->
+    <g class="stagger-2" transform="translate(0, 55)">
+      <text x="0" y="0" class="label">🌙 Night (12:00 AM - 6:00 AM)</text>
+      <text x="350" y="0" class="value" text-anchor="end">70%</text>
+      <rect x="0" y="6" width="350" height="6" rx="3" fill="#16161e"/>
+      <rect x="0" y="6" width="245" height="6" rx="3" fill="#6366f1" class="bar-fill"/>
+    </g>
+  </g>
+</svg>
