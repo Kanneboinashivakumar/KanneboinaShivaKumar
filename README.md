@@ -82,6 +82,10 @@ me.say_hi()
   <img src="./top_languages.svg" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanneboinashivakumar&theme=tokyonight&hide_border=true" width="100%" alt="Contribution Graph" />
+</p>
+
 ---
 
 ## 🚀 Featured Projects
@@ -135,13 +139,11 @@ me.say_hi()
 
 <br>
 
-| Achievement | Description |
-| :--- | :--- |
-| **💻 LokSathi Developer** | Building India’s first citizen companion platform |
-| **🏆 SIH Participant** | Techlead of Bharat Akshar, an innovative transliteration app |
-| **🚀 Multi-language Programmer** | Proficient in 5+ programming languages |
-| **🌐 Open Source Contributor** | Actively contributing to community projects |
-| **🎯 Problem Solver** | Strong DSA and algorithmic thinking skills |
+- ✅ **LokSathi Developer** – Building India’s first citizen companion platform
+- ✅ **Smart India Hackathon Participant** – Techlead of Bharat Akshar, an innovative transliteration app
+- ✅ **Multi-language Programmer** – Proficient in 5+ programming languages
+- ✅ **Open Source Contributor** – Actively contributing to community projects
+- 🎯 **Problem Solver** – Strong DSA and algorithmic thinking skills
 
 ---
 
@@ -293,15 +295,15 @@ graph TB
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Kanneboinashivakumar/KanneboinaShivaKumar/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Kanneboinashivakumar/KanneboinaShivaKumar/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Kanneboinashivakumar/KanneboinaShivaKumar/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
 
