@@ -19,7 +19,7 @@
       fill: #73daca; 
     }
   </style>
-  <text x="25" y="35" class="title">Kanneboina Shiva Kumar's GitHub Stats</text>
+  <text x="25" y="35" class="title">GitHub Stats</text>
   
   <g transform="translate(25, 65)">
     <!-- Commits -->
