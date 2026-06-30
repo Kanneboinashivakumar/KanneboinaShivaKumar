@@ -11,6 +11,25 @@
   <rect width="400" height="155" rx="8" fill="url(#bgGlow)"/>
   <rect x="1" y="8" width="4" height="139" rx="2" fill="#70a5fd"/>
   
+  <!-- Floating Background Particles -->
+  <g>
+    <!-- Particle 1 (Blue) -->
+    <circle cx="0" cy="0" r="3" fill="#70a5fd" opacity="0.08">
+      <animateTransform attributeName="transform" type="translate" values="100,50; 120,30; 100,50" dur="8s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.02;0.12;0.02" dur="8s" repeatCount="indefinite" />
+    </circle>
+    <!-- Particle 2 (Green) -->
+    <circle cx="0" cy="0" r="4" fill="#73daca" opacity="0.06">
+      <animateTransform attributeName="transform" type="translate" values="280,100; 260,120; 280,100" dur="10s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.01;0.08;0.01" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <!-- Particle 3 (Purple) -->
+    <circle cx="0" cy="0" r="2.5" fill="#bb9af7" opacity="0.08">
+      <animateTransform attributeName="transform" type="translate" values="340,30; 320,50; 340,30" dur="7s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.03;0.15;0.03" dur="7s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
   <style>
     .title { 
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; 
@@ -67,7 +86,7 @@
   </g>
   
   <!-- Features -->
-  <g class="stagger-2" transform="translate(20, 80)">
+  <g class="stagger-2" transform="translate(20, 82)">
     <text x="0" y="0" class="feature">• Integrated municipal and state citizen services</text>
     <text x="0" y="18" class="feature">• Real-time updates, multi-language query support</text>
     <text x="0" y="36" class="feature">• AI-powered conversational helpdesk assistant</text>
