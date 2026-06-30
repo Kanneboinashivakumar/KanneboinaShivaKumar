@@ -10,7 +10,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Kanneboinashivakumar&color=blueviolet&style=for-the-badge)](https://github.com/Kanneboinashivakumar)
 [![GitHub followers](https://img.shields.io/github/followers/Kanneboinashivakumar?style=for-the-badge&color=blue)](https://github.com/Kanneboinashivakumar?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/Kanneboinashivakumar?style=for-the-badge&color=yellow&label=Stars&logo=github)](https://github.com/Kanneboinashivakumar?tab=repositories)
+[![GitHub stars](https://img.shields.io/badge/Stars-20-yellow?style=for-the-badge&logo=github)](https://github.com/Kanneboinashivakumar?tab=repositories)
 
 </div>
 
@@ -78,12 +78,8 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Kanneboinashivakumar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kanneboinashivakumar&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Kanneboinashivakumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="./github_stats.svg" alt="GitHub Stats" />
+  <img src="./top_languages.svg" alt="Top Languages" />
 </p>
 
 ---
@@ -138,11 +134,14 @@ me.say_hi()
 </div>
 
 <br>
-- ✅ LokSathi Developer – Building India’s first citizen companion platform
-- ✅ Smart India Hackathon Participant – Techlead of Bharat Akshar, an innovative transliteration app
-- ✅ Multi-language Programmer – Proficient in 5+ programming languages
-- ✅ Open Source Contributor – Actively contributing to community projects
-- 🎯 Problem Solver – Strong DSA and algorithmic thinking skills
+
+| Achievement | Description |
+| :--- | :--- |
+| **💻 LokSathi Developer** | Building India’s first citizen companion platform |
+| **🏆 SIH Participant** | Techlead of Bharat Akshar, an innovative transliteration app |
+| **🚀 Multi-language Programmer** | Proficient in 5+ programming languages |
+| **🌐 Open Source Contributor** | Actively contributing to community projects |
+| **🎯 Problem Solver** | Strong DSA and algorithmic thinking skills |
 
 ---
 
