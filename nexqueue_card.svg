@@ -82,40 +82,40 @@
       font-size: 11px; 
       fill: #a9b1d6;
     }
-    
-    @keyframes fadeIn {
-      from { opacity: 0; }
-      to { opacity: 1; }
+    .watermark {
+      font-size: 70px;
+      fill: #a9b1d6;
+      fill-opacity: 0.04;
+      font-family: system-ui, -apple-system, sans-serif;
     }
-    
-    .stagger-0 { animation: fadeIn 0.6s ease forwards; opacity: 0; }
-    .stagger-1 { animation: fadeIn 0.6s ease 0.1s forwards; opacity: 0; }
-    .stagger-2 { animation: fadeIn 0.6s ease 0.2s forwards; opacity: 0; }
-    .stagger-3 { animation: fadeIn 0.6s ease 0.3s forwards; opacity: 0; }
   </style>
   
   <!-- Shimmering Vector Hospital Cross Icon (higher opacity, white glint) -->
   <path d="M 315,60 L 335,60 L 335,40 L 355,40 L 355,60 L 375,60 L 375,80 L 355,80 L 355,100 L 335,100 L 335,80 L 315,80 Z" fill="url(#iconShimmer)" opacity="0.25" />
   
-  <!-- Header -->
-  <g class="stagger-0" transform="translate(20, 32)">
+  <!-- Header (SMIL Staggered Fade) -->
+  <g transform="translate(20, 32)" opacity="0">
+    <animate attributeName="opacity" values="0; 1" dur="0.6s" begin="0s" fill="freeze" />
     <text x="0" y="0" class="title">🏥 NexQueue - Smart Queue System</text>
   </g>
   
-  <!-- Description -->
-  <g class="stagger-1" transform="translate(20, 56)">
+  <!-- Description (SMIL Staggered Fade) -->
+  <g transform="translate(20, 56)" opacity="0">
+    <animate attributeName="opacity" values="0; 1" dur="0.6s" begin="0.1s" fill="freeze" />
     <text x="0" y="0" class="desc">Smart hospital queue &amp; pharmacy routing system.</text>
   </g>
   
-  <!-- Features -->
-  <g class="stagger-2" transform="translate(20, 80)">
+  <!-- Features (SMIL Staggered Fade) -->
+  <g transform="translate(20, 80)" opacity="0">
+    <animate attributeName="opacity" values="0; 1" dur="0.6s" begin="0.2s" fill="freeze" />
     <text x="0" y="0" class="feature">• Priority-based queuing (Emergency &gt; Senior &gt; Normal)</text>
     <text x="0" y="18" class="feature">• Real-time patient updates and routing workflows</text>
     <text x="0" y="36" class="feature">• Integrated live state synchronization &amp; notifications</text>
   </g>
   
-  <!-- Tech Stack -->
-  <g class="stagger-3" transform="translate(20, 140)">
+  <!-- Tech Stack (SMIL Staggered Fade) -->
+  <g transform="translate(20, 140)" opacity="0">
+    <animate attributeName="opacity" values="0; 1" dur="0.6s" begin="0.3s" fill="freeze" />
     <circle cx="4" cy="-3" r="4" fill="#73daca"/>
     <text x="14" y="1" class="tech">React • Node.js • MongoDB • Socket.io</text>
   </g>

@@ -7,120 +7,118 @@
       <stop offset="100%" stop-color="#1a1b26" />
     </radialGradient>
   </defs>
-  
-  <rect width="800" height="200" rx="8" fill="url(#bgGlow)"/>
-  <rect x="1" y="8" width="4" height="184" rx="2" fill="#70a5fd"/>
-  
+
   <style>
-    .title { 
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; 
-      font-size: 16px; 
-      font-weight: bold; 
-      fill: #70a5fd; 
-    }
-    .label { 
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; 
-      font-size: 13px; 
-      font-weight: bold; 
-      fill: #a9b1d6; 
-    }
-    .value { 
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; 
-      font-size: 12px; 
-      font-weight: bold; 
-      fill: #73daca; 
-    }
-    
-    @keyframes fadeIn {
-      from { opacity: 0; }
-      to { opacity: 1; }
-    }
-    
-    @keyframes fillProgress {
-      from { width: 0px; }
-    }
-    
-    .stagger-0 { animation: fadeIn 0.6s ease forwards; opacity: 0; }
-    .stagger-1 { animation: fadeIn 0.6s ease 0.1s forwards; opacity: 0; }
-    .stagger-2 { animation: fadeIn 0.6s ease 0.2s forwards; opacity: 0; }
-    .stagger-3 { animation: fadeIn 0.6s ease 0.3s forwards; opacity: 0; }
-    .stagger-4 { animation: fadeIn 0.6s ease 0.4s forwards; opacity: 0; }
-    
-    .bar-fill { animation: fillProgress 1.5s cubic-bezier(0.16, 1, 0.3, 1) forwards; }
+    .title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold; fill: #70a5fd; }
+    .label { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 13px; font-weight: bold; fill: #a9b1d6; }
+    .value { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 12px; font-weight: bold; fill: #73daca; }
   </style>
 
+  <rect width="800" height="200" rx="8" fill="url(#bgGlow)"/>
+  <rect x="1" y="8" width="4" height="184" rx="2" fill="#70a5fd"/>
+
   <!-- Title -->
-  <g class="stagger-0" transform="translate(25, 30)">
+  <g transform="translate(25, 30)" opacity="0">
+    <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0s" fill="freeze" />
     <text x="0" y="0" class="title">Skills Matrix &amp; Proficiency</text>
   </g>
 
-  <!-- Column 1 (Left) -->
+  <!-- === LEFT COLUMN === -->
   <g transform="translate(25, 45)">
-    <!-- Item 1: Full Stack Development (90%) -->
-    <g class="stagger-1" transform="translate(0, 15)">
+
+    <!-- Item 1: Full Stack Dev (90%) -->
+    <g transform="translate(0, 15)" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.1s" fill="freeze" />
       <text x="0" y="0" class="label">Full Stack Development</text>
       <text x="350" y="0" class="value" text-anchor="end">90%</text>
       <rect x="0" y="6" width="350" height="6" rx="3" fill="#16161e"/>
-      <rect x="0" y="6" width="315" height="6" rx="3" fill="#60a5fa" class="bar-fill"/>
+      <!-- bar animates from width 0 to 315 (90% of 350) -->
+      <rect x="0" y="6" width="0" height="6" rx="3" fill="#60a5fa">
+        <animate attributeName="width" values="0;315" dur="1.5s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" />
+      </rect>
     </g>
 
     <!-- Item 2: Machine Learning (75%) -->
-    <g class="stagger-2" transform="translate(0, 50)">
+    <g transform="translate(0, 50)" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.2s" fill="freeze" />
       <text x="0" y="0" class="label">Machine Learning</text>
       <text x="350" y="0" class="value" text-anchor="end">75%</text>
       <rect x="0" y="6" width="350" height="6" rx="3" fill="#16161e"/>
-      <rect x="0" y="6" width="262.5" height="6" rx="3" fill="#818cf8" class="bar-fill"/>
+      <rect x="0" y="6" width="0" height="6" rx="3" fill="#818cf8">
+        <animate attributeName="width" values="0;262.5" dur="1.5s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" />
+      </rect>
     </g>
 
     <!-- Item 3: Data Structures (85%) -->
-    <g class="stagger-3" transform="translate(0, 85)">
+    <g transform="translate(0, 85)" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.3s" fill="freeze" />
       <text x="0" y="0" class="label">Data Structures (DSA)</text>
       <text x="350" y="0" class="value" text-anchor="end">85%</text>
       <rect x="0" y="6" width="350" height="6" rx="3" fill="#16161e"/>
-      <rect x="0" y="6" width="297.5" height="6" rx="3" fill="#34d399" class="bar-fill"/>
+      <rect x="0" y="6" width="0" height="6" rx="3" fill="#34d399">
+        <animate attributeName="width" values="0;297.5" dur="1.5s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" />
+      </rect>
     </g>
 
-    <!-- Item 4: Python Programming (90%) -->
-    <g class="stagger-4" transform="translate(0, 120)">
+    <!-- Item 4: Python (90%) -->
+    <g transform="translate(0, 120)" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.4s" fill="freeze" />
       <text x="0" y="0" class="label">Python Programming</text>
       <text x="350" y="0" class="value" text-anchor="end">90%</text>
       <rect x="0" y="6" width="350" height="6" rx="3" fill="#16161e"/>
-      <rect x="0" y="6" width="315" height="6" rx="3" fill="#60a5fa" class="bar-fill"/>
+      <rect x="0" y="6" width="0" height="6" rx="3" fill="#60a5fa">
+        <animate attributeName="width" values="0;315" dur="1.5s" begin="0.4s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" />
+      </rect>
     </g>
+
   </g>
 
-  <!-- Column 2 (Right) -->
+  <!-- === RIGHT COLUMN === -->
   <g transform="translate(425, 45)">
-    <!-- Item 5: JavaScript/React (80%) -->
-    <g class="stagger-1" transform="translate(0, 15)">
+
+    <!-- Item 5: JS/React (80%) -->
+    <g transform="translate(0, 15)" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.1s" fill="freeze" />
       <text x="0" y="0" class="label">JavaScript / React</text>
       <text x="350" y="0" class="value" text-anchor="end">80%</text>
       <rect x="0" y="6" width="350" height="6" rx="3" fill="#16161e"/>
-      <rect x="0" y="6" width="280" height="6" rx="3" fill="#818cf8" class="bar-fill"/>
+      <rect x="0" y="6" width="0" height="6" rx="3" fill="#818cf8">
+        <animate attributeName="width" values="0;280" dur="1.5s" begin="0.1s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" />
+      </rect>
     </g>
 
-    <!-- Item 6: Database Design (85%) -->
-    <g class="stagger-2" transform="translate(0, 50)">
+    <!-- Item 6: Database (85%) -->
+    <g transform="translate(0, 50)" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.2s" fill="freeze" />
       <text x="0" y="0" class="label">Database Design (SQL/NoSQL)</text>
       <text x="350" y="0" class="value" text-anchor="end">85%</text>
       <rect x="0" y="6" width="350" height="6" rx="3" fill="#16161e"/>
-      <rect x="0" y="6" width="297.5" height="6" rx="3" fill="#34d399" class="bar-fill"/>
+      <rect x="0" y="6" width="0" height="6" rx="3" fill="#34d399">
+        <animate attributeName="width" values="0;297.5" dur="1.5s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" />
+      </rect>
     </g>
 
     <!-- Item 7: Problem Solving (95%) -->
-    <g class="stagger-3" transform="translate(0, 85)">
+    <g transform="translate(0, 85)" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.3s" fill="freeze" />
       <text x="0" y="0" class="label">Problem Solving (Algorithms)</text>
       <text x="350" y="0" class="value" text-anchor="end">95%</text>
       <rect x="0" y="6" width="350" height="6" rx="3" fill="#16161e"/>
-      <rect x="0" y="6" width="332.5" height="6" rx="3" fill="#ec4899" class="bar-fill"/>
+      <rect x="0" y="6" width="0" height="6" rx="3" fill="#ec4899">
+        <animate attributeName="width" values="0;332.5" dur="1.5s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" />
+      </rect>
     </g>
 
     <!-- Item 8: Team Collaboration (85%) -->
-    <g class="stagger-4" transform="translate(0, 120)">
+    <g transform="translate(0, 120)" opacity="0">
+      <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.4s" fill="freeze" />
       <text x="0" y="0" class="label">Team Collaboration / Git</text>
       <text x="350" y="0" class="value" text-anchor="end">85%</text>
       <rect x="0" y="6" width="350" height="6" rx="3" fill="#16161e"/>
-      <rect x="0" y="6" width="297.5" height="6" rx="3" fill="#60a5fa" class="bar-fill"/>
+      <rect x="0" y="6" width="0" height="6" rx="3" fill="#60a5fa">
+        <animate attributeName="width" values="0;297.5" dur="1.5s" begin="0.4s" fill="freeze" calcMode="spline" keySplines="0.16 1 0.3 1" />
+      </rect>
     </g>
+
   </g>
 </svg>
