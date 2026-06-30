@@ -1,18 +1,17 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="cool gif" />
+  <img src="./banner.svg" alt="Kanneboina Shiva Kumar Banner" width="100%" />
 </p>
 
 
 <div align="center">
-  
-# 🚀 Hi there, I'm Kanneboina Shiva Kumar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Full+Stack+Developer+%7C+ML+Enthusiast;Building+LokSathi+%7C+Open+Source+Contributor;Problem+Solver+%7C+Anime+Lover" alt="Typing SVG" />
+<br><br>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Kanneboinashivakumar&color=blueviolet&style=for-the-badge)](https://github.com/Kanneboinashivakumar)
 [![GitHub followers](https://img.shields.io/github/followers/Kanneboinashivakumar?style=for-the-badge&color=blue)](https://github.com/Kanneboinashivakumar?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/Kanneboinashivakumar?style=for-the-badge&color=yellow)](https://github.com/Kanneboinashivakumar?tab=repositories)
+[![GitHub stars](https://img.shields.io/github/stars/Kanneboinashivakumar?style=for-the-badge&color=yellow&label=Stars&logo=github)](https://github.com/Kanneboinashivakumar?tab=repositories)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Full+Stack+Developer+%7C+ML+Enthusiast;Building+LokSathi+%7C+Open+Source+Contributor;Problem+Solver+%7C+Anime+Lover" alt="Typing SVG" />
 </div>
 
 ---
@@ -34,9 +33,11 @@ class SoftwareDeveloper:
 me = SoftwareDeveloper()
 me.say_hi()
 ```
+
 | 💬 **Code & Curiosity** | 🎞️ **Visual Vibe** |
-|-----------------|-------------------|
-| 🔭 **Currently working on:** LokSathi (Citizen Companion) & [LIFEOS](https://github.com/Kanneboinashivakumar/LifeOS) (Gamified RPG Productivity Hub).<br>🌱 **Learning:** Advanced Machine Learning, System Architecture, & Cloud Engineering.<br>💡 **Interests:** Full-Stack Development, AI/ML, Open Source, Performance Optimization.<br>🤝 **Looking to collaborate on:** High-impact platforms and developer tooling.<br>🎯 **Goals:** Expand LIFEOS features, deploy production containers, and contribute to community projects.<br>📫 **Reach me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ShivaKumarKanneboina) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:beginsample36@gmail.com)<br>🛠️ **Open Source:** Contributing to BharatAkshar, WGER, and other systems.<br>🚀 **Projects:** Scaled web apps and containerized deployments.<br>📚 **Skills:** Advanced TypeScript, Next.js standalone builds, Docker, and GCP.<br>⚡ **Fun fact:** I once spent 3 hours debugging only to find out a regional formatting hydration mismatch 😅. | <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400"/> |
+| :--- | :--- |
+| 🔭 **Currently working on:** LokSathi (Citizen Companion) & [LIFEOS](https://github.com/Kanneboinashivakumar/LifeOS) (Gamified RPG Productivity Hub).<br>🌱 **Learning:** Advanced Machine Learning, System Architecture, & Cloud Engineering.<br>💡 **Interests:** Full-Stack Development, AI/ML, Open Source, Performance Optimization.<br>🤝 **Looking to collaborate on:** High-impact platforms and developer tooling.<br>🎯 **Goals:** Expand LIFEOS features, deploy production containers, and contribute to community projects.<br>📫 **Reach me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-kumar-kannaeboina-b6a844298/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:beginsample36@gmail.com)<br>🛠️ **Open Source:** Contributing to BharatAkshar, WGER, and other systems.<br>🚀 **Projects:** Scaled web apps and containerized deployments.<br>📚 **Skills:** Advanced TypeScript, Next.js standalone builds, Docker, and GCP.<br>⚡ **Fun fact:** I once spent 3 hours debugging only to find out a regional formatting hydration mismatch 😅. | <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400"/> |
+
 
 ---
 
@@ -77,17 +78,12 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kanneboinashivakumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Kanneboinashivakumar&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Kanneboinashivakumar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kanneboinashivakumar&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanneboinashivakumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
-
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Kanneboinashivakumar&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Kanneboinashivakumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 ---
@@ -132,12 +128,16 @@ me.say_hi()
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=Kanneboinashivakumar&theme=tokyonight&no-frame=true&column=7" alt="trophy" />
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/LokSathi_Developer-%E2%9C%85_Active-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/SIH_Participant-Tech_Lead-orange?style=for-the-badge&logo=hackaday&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-green?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA_Problem_Solver-Active-ff69b4?style=for-the-badge" />
+</div>
 
+<br>
 - ✅ LokSathi Developer – Building India’s first citizen companion platform
 - ✅ Smart India Hackathon Participant – Techlead of Bharat Akshar, an innovative transliteration app
 - ✅ Multi-language Programmer – Proficient in 5+ programming languages
@@ -148,28 +148,67 @@ me.say_hi()
 
 ## 💼 Skills Matrix
 
-```text
-Full Stack Development   ██████████████████░░ 90%
-Machine Learning         ███████████████░░░░░ 75%
-Data Structures          █████████████████░░░ 85%
-Python Programming       ██████████████████░░ 90%
-JavaScript/React         ████████████████░░░░ 80%
-Database Design          █████████████████░░░ 85%
-Problem Solving          ███████████████████░ 95%
-Team Collaboration       █████████████████░░░ 85%
-```
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="30%"><b>Full Stack Development</b></td>
+      <td width="70%"><img src="https://geps.dev/progress/90?color=60a5fa" alt="90%" /></td>
+    </tr>
+    <tr>
+      <td><b>Machine Learning</b></td>
+      <td><img src="https://geps.dev/progress/75?color=818cf8" alt="75%" /></td>
+    </tr>
+    <tr>
+      <td><b>Data Structures</b></td>
+      <td><img src="https://geps.dev/progress/85?color=34d399" alt="85%" /></td>
+    </tr>
+    <tr>
+      <td><b>Python Programming</b></td>
+      <td><img src="https://geps.dev/progress/90?color=60a5fa" alt="90%" /></td>
+    </tr>
+    <tr>
+      <td><b>JavaScript/React</b></td>
+      <td><img src="https://geps.dev/progress/80?color=818cf8" alt="80%" /></td>
+    </tr>
+    <tr>
+      <td><b>Database Design</b></td>
+      <td><img src="https://geps.dev/progress/85?color=34d399" alt="85%" /></td>
+    </tr>
+    <tr>
+      <td><b>Problem Solving</b></td>
+      <td><img src="https://geps.dev/progress/95?color=ec4899" alt="95%" /></td>
+    </tr>
+    <tr>
+      <td><b>Team Collaboration</b></td>
+      <td><img src="https://geps.dev/progress/85?color=60a5fa" alt="85%" /></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## 📈 Coding Activity
 
-```text
-
-🌅 Morning     ██████████░░░░░░░ 40%
-🌆 Daytime     █████████████░░░░ 65%
-🌃 Evening     ████████░░░░░░░░░ 35%
-🌙 Night       ██████████████░░░ 70%
-```
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="30%">🌅 Morning</td>
+      <td width="70%"><img src="https://geps.dev/progress/40?color=fbbf24" alt="40%" /></td>
+    </tr>
+    <tr>
+      <td>🌆 Daytime</td>
+      <td><img src="https://geps.dev/progress/65?color=3b82f6" alt="65%" /></td>
+    </tr>
+    <tr>
+      <td>🌃 Evening</td>
+      <td><img src="https://geps.dev/progress/35?color=8b5cf6" alt="35%" /></td>
+    </tr>
+    <tr>
+      <td>🌙 Night</td>
+      <td><img src="https://geps.dev/progress/70?color=6366f1" alt="70%" /></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -255,15 +294,15 @@ graph TB
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/Kanneboinashivakumar/KanneboinaShivaKumar/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/Kanneboinashivakumar/KanneboinaShivaKumar/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/Kanneboinashivakumar/KanneboinaShivaKumar/output/github-contribution-grid-snake.svg"
   />
 </picture>
 

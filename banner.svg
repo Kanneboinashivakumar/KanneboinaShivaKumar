@@ -1,0 +1,488 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050508" />
+      <stop offset="60%" stop-color="#09090d" />
+      <stop offset="100%" stop-color="#12121a" />
+    </linearGradient>
+
+    <!-- Crimson Sun Glow Filter -->
+    <filter id="sunGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="15" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <!-- Sakura Petal Shapes (Elongated teardrops and slivers - NO heart shapes) -->
+    <!-- Petal Shape 1 (Standard Teardrop Petal) -->
+    <g id="petal-shape-1">
+      <path d="M 0,-4 C 2.5,-4 3.5,2 0,5.5 C -3.5,2 -2.5,-4 0,-4 Z" fill="#fda4af" opacity="0.85"/>
+    </g>
+    <g id="petal-shape-1-dark">
+      <path d="M 0,-4 C 2.5,-4 3.5,2 0,5.5 C -3.5,2 -2.5,-4 0,-4 Z" fill="#f43f5e" opacity="0.9"/>
+    </g>
+
+    <!-- Petal Shape 2 (Curved Sliver Petal) -->
+    <g id="petal-shape-2">
+      <path d="M 0,-1 C 3,-3 6,-1 7,2.5 C 4,2 1,1 0,-1 Z" fill="#fbcfe8" opacity="0.8"/>
+    </g>
+
+    <!-- Petal Shape 3 (Irregular Organic Petal) -->
+    <g id="petal-shape-3">
+      <path d="M 0,-3.5 C 2,-4 3.5,-1 2.2,2 C 1,4.5 -1,4 -1.5,1.5 C -2,-1 -1.5,-3 0,-3.5 Z" fill="#fda4af" opacity="0.85"/>
+    </g>
+    <g id="petal-shape-3-dark">
+      <path d="M 0,-3.5 C 2,-4 3.5,-1 2.2,2 C 1,4.5 -1,4 -1.5,1.5 C -2,-1 -1.5,-3 0,-3.5 Z" fill="#f43f5e" opacity="0.9"/>
+    </g>
+
+    <!-- Realistic Detailed 5-Petal Sakura Flower -->
+    <g id="sakura-flower">
+      <circle cx="0" cy="0" r="2.5" fill="#f59e0b"/>
+      <path d="M 0,-2 C -3,-8 3,-8 0,-2" fill="#fda4af"/>
+      <path d="M 1.9,-0.6 C 6.5,-4.5 9.5,1.5 1.9,-0.6" fill="#fb7185"/>
+      <path d="M 1.2,1.6 C 4.5,6.5 0,9.5 1.2,1.6" fill="#fda4af"/>
+      <path d="M -1.2,1.6 C -4.5,6.5 0,9.5 -1.2,1.6" fill="#fb7185"/>
+      <path d="M -1.9,-0.6 C -6.5,-4.5 -9.5,1.5 -1.9,-0.6" fill="#fda4af"/>
+    </g>
+
+    <!-- Bud shape -->
+    <g id="sakura-bud">
+      <ellipse cx="0" cy="0" rx="3.5" ry="5.5" fill="#e11d48" transform="rotate(30)"/>
+      <path d="M -1.5,2 L -3.5,6 M 1.5,2 L 3.5,6" stroke="#1c1917" stroke-width="1"/>
+    </g>
+
+    <!-- Typewriter Clip Path -->
+    <clipPath id="typeClip">
+      <rect x="-10" y="-45" width="0" height="70">
+        <animate attributeName="width" values="0;0;680;680;0" keyTimes="0;0.12;0.85;0.95;1" dur="6.5s" repeatCount="indefinite" />
+      </rect>
+    </clipPath>
+  </defs>
+
+  <style>
+    .font-mono {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    }
+    .font-sans {
+      font-family: system-ui, -apple-system, 'SF Pro Display', Roboto, Helvetica, sans-serif;
+    }
+    .text-name {
+      font-size: 46px;
+      font-weight: 800;
+      fill: #ffffff;
+      letter-spacing: 2px;
+      filter: drop-shadow(0 4px 12px rgba(244, 63, 94, 0.15));
+    }
+  </style>
+
+  <!-- Dark Atmospheric Background -->
+  <rect width="1200" height="380" fill="url(#bgGrad)" />
+
+  <!-- Ambient Red Glow in the Mist -->
+  <circle cx="950" cy="200" r="280" fill="#e11d48" opacity="0.12" filter="blur(60px)" />
+
+  <!-- Glowing Crimson Sun -->
+  <circle cx="950" cy="200" r="105" fill="#be123c" opacity="0.85" filter="url(#sunGlow)" />
+
+  <!-- Realistic Gnarled Tree Branches -->
+  <!-- Soft pink ambient blur behind blossom clusters -->
+  <circle cx="1060" cy="45" r="45" fill="#fda4af" opacity="0.25" filter="blur(15px)"/>
+  <circle cx="990" cy="55" r="35" fill="#fb7185" opacity="0.2" filter="blur(12px)"/>
+  
+  <!-- Back Branch Shadow/Base -->
+  <path d="M 1200,-5 Q 1110,45 1010,25 T 900,65" fill="none" stroke="#0c0a09" stroke-width="12" stroke-linecap="round"/>
+  <path d="M 1080,35 Q 1040,65 980,60" fill="none" stroke="#0c0a09" stroke-width="7.5" stroke-linecap="round"/>
+  <path d="M 985,45 Q 940,30 915,35" fill="none" stroke="#0c0a09" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- Front Branch Highlights/Texture -->
+  <path d="M 1200,-8 Q 1110,40 1010,20 T 900,60" fill="none" stroke="#1c1917" stroke-width="3.5" stroke-linecap="round"/>
+  <path d="M 1080,32 Q 1040,62 980,57" fill="none" stroke="#1c1917" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Gnarled Sub-branches for realism -->
+  <path d="M 1130,22 Q 1110,-5 1080,-10" fill="none" stroke="#0c0a09" stroke-width="4" stroke-linecap="round"/>
+  <path d="M 1030,28 Q 1015,10 990,5" fill="none" stroke="#0c0a09" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Tiny green/dark leaves sprouting between flowers -->
+  <path d="M 1125,28 Q 1130,24 1128,20 C 1125,23 1122,25 1125,28 Z" fill="#4d7c0f"/>
+  <path d="M 1060,48 Q 1064,44 1060,40 C 1056,43 1056,46 1060,48 Z" fill="#4d7c0f"/>
+  <path d="M 995,68 Q 1000,64 996,60 C 992,63 991,66 995,68 Z" fill="#3f6212"/>
+  <path d="M 930,55 Q 934,51 930,47 C 926,50 926,53 930,55 Z" fill="#4d7c0f"/>
+
+  <!-- Clustered Realistic Cherry Blossom Flowers & Buds -->
+  <use href="#sakura-flower" x="1140" y="20" transform="scale(1.2)"/>
+  <use href="#sakura-flower" x="1115" y="32" transform="scale(0.9)"/>
+  <use href="#sakura-flower" x="1100" y="15" />
+  <use href="#sakura-flower" x="1075" y="42" transform="scale(1.1)"/>
+  <use href="#sakura-flower" x="1055" y="22" transform="scale(0.85)"/>
+  <use href="#sakura-flower" x="1035" y="38" />
+  <use href="#sakura-flower" x="1010" y="48" transform="scale(1.15)"/>
+  <use href="#sakura-flower" x="990" y="32" />
+  <use href="#sakura-flower" x="975" y="65" transform="scale(0.85)"/>
+  <use href="#sakura-flower" x="955" y="48" transform="scale(1.05)"/>
+  <use href="#sakura-flower" x="930" y="55" />
+  <use href="#sakura-flower" x="912" y="42" transform="scale(0.9)"/>
+  <use href="#sakura-flower" x="895" y="62" />
+
+  <!-- Sakura Buds -->
+  <use href="#sakura-bud" x="1150" y="40" />
+  <use href="#sakura-bud" x="1085" y="55" />
+  <use href="#sakura-bud" x="1025" y="60" />
+  <use href="#sakura-bud" x="965" y="70" />
+  <use href="#sakura-bud" x="900" y="80" />
+
+  <!-- Samurai Silhouette -->
+  <g id="samurai">
+    <!-- Body/Cloak silhouette -->
+    <path d="
+      M 945,180 
+      L 955,180
+      L 965,195
+      L 970,220
+      L 965,245
+      L 985,340
+      L 915,340
+      L 935,245
+      L 930,220
+      L 935,195
+      Z" 
+      fill="#050508" />
+    
+    <!-- Wide Kimono Sleeves -->
+    <path d="
+      M 932,192 
+      C 915,195 910,215 910,235
+      C 910,250 920,255 925,255
+      C 930,255 932,245 932,235
+      Z" 
+      fill="#050508" />
+    <path d="
+      M 968,192 
+      C 985,195 990,215 990,235
+      C 990,250 980,255 975,255
+      C 970,255 968,245 968,235
+      Z" 
+      fill="#050508" />
+
+    <!-- Conical Hat (Ronin Straw Hat with lines) -->
+    <path d="M 910,182 L 950,148 L 990,182 Q 950,188 910,182 Z" fill="#050508" />
+    <!-- Hat point -->
+    <path d="M 947,148 L 950,143 L 953,148 Z" fill="#050508" />
+    
+    <!-- Hat texture lines -->
+    <path d="M 950,148 L 920,182 M 950,148 L 935,184 M 950,148 L 950,186 M 950,148 L 965,184 M 950,148 L 980,182" stroke="#1c1917" stroke-width="0.75" opacity="0.4"/>
+    <path d="M 925,170 Q 950,174 975,170 M 935,160 Q 950,163 965,160" fill="none" stroke="#1c1917" stroke-width="0.75" opacity="0.4"/>
+
+    <!-- Obi (Belt) -->
+    <rect x="933" y="235" width="34" height="10" fill="#0c0c12" />
+
+    <!-- Katana Sword (pointing down-right) -->
+    <!-- Hilt -->
+    <path d="M 965,235 L 955,220" stroke="#050508" stroke-width="4.5" stroke-linecap="round"/>
+    <path d="M 963,232 L 957,223" stroke="#be123c" stroke-width="4.5" stroke-linecap="round"/>
+    <!-- Guard -->
+    <ellipse cx="965" cy="235" rx="5" ry="2" transform="rotate(-30 965 235)" fill="#050508" />
+    <!-- Blade -->
+    <path d="M 965,236 L 1025,310 L 1027,309 L 967,235 Z" fill="#050508" stroke="#ffffff" stroke-width="0.5" />
+  </g>
+
+  <!-- Grass Field -->
+  <g fill="#050508">
+    <!-- Back grass blades -->
+    <g opacity="0.45" fill="#0b0b0f">
+      <path d="M 800,380 Q 820,310 810,260 Q 825,310 820,380 Z" />
+      <path d="M 830,380 Q 850,290 840,240 Q 855,290 850,380 Z" />
+      <path d="M 860,380 Q 880,300 870,250 Q 885,300 880,380 Z" />
+      <path d="M 890,380 Q 910,280 900,230 Q 915,280 910,380 Z" />
+      <path d="M 920,380 Q 940,310 930,260 Q 945,310 940,380 Z" />
+      <path d="M 950,380 Q 970,290 960,240 Q 975,290 970,380 Z" />
+      <path d="M 980,380 Q 1000,300 990,250 Q 1005,300 1000,380 Z" />
+      <path d="M 1010,380 Q 1030,280 1020,230 Q 1035,280 1030,380 Z" />
+      <path d="M 1040,380 Q 1060,310 1050,260 Q 1065,310 1060,380 Z" />
+      <path d="M 1070,380 Q 1090,290 1080,240 Q 1095,290 1090,380 Z" />
+    </g>
+
+    <!-- Mid/Foreground grass blades -->
+    <path d="M 815,380 Q 830,280 845,230 Q 835,290 825,380 Z" />
+    <path d="M 845,380 Q 860,260 880,210 Q 865,280 855,380 Z" />
+    <path d="M 875,380 Q 890,270 910,220 Q 895,290 885,380 Z" />
+    <path d="M 905,380 Q 920,250 945,200 Q 925,270 915,380 Z" />
+    <path d="M 935,380 Q 950,260 970,210 Q 955,280 945,380 Z" />
+    <path d="M 965,380 Q 980,270 1000,220 Q 985,290 975,380 Z" />
+    <path d="M 995,380 Q 1010,250 1035,200 Q 1015,270 1005,380 Z" />
+    <path d="M 1025,380 Q 1040,280 1060,230 Q 1045,290 1035,380 Z" />
+    <path d="M 1055,380 Q 1070,270 1090,220 Q 1075,290 1065,380 Z" />
+
+    <!-- Detailed Reeds / Seed heads -->
+    <path d="M 850,380 Q 860,240 880,180" fill="none" stroke="#050508" stroke-width="2"/>
+    <ellipse cx="880" cy="180" rx="3" ry="8" transform="rotate(15 880 180)"/>
+    <path d="M 890,380 Q 900,220 920,165" fill="none" stroke="#050508" stroke-width="2"/>
+    <ellipse cx="920" cy="165" rx="3" ry="8" transform="rotate(20 920 165)"/>
+    <path d="M 940,380 Q 930,230 910,190" fill="none" stroke="#050508" stroke-width="2"/>
+    <ellipse cx="910" cy="190" rx="2.5" ry="7" transform="rotate(-15 910 190)"/>
+    <path d="M 975,380 Q 985,240 1005,185" fill="none" stroke="#050508" stroke-width="2"/>
+    <ellipse cx="1005" cy="185" rx="3" ry="8" transform="rotate(18 1005 185)"/>
+    <path d="M 1030,380 Q 1020,230 1000,175" fill="none" stroke="#050508" stroke-width="2"/>
+    <ellipse cx="1000" cy="175" rx="3" ry="8" transform="rotate(-10 1000 175)"/>
+    <path d="M 1065,380 Q 1075,250 1095,195" fill="none" stroke="#050508" stroke-width="2"/>
+    <ellipse cx="1095" cy="195" rx="2.5" ry="7" transform="rotate(15 1095 195)"/>
+  </g>
+
+  <!-- Falling Sakura Petals (INCREASED to 24 petals including a direct vertical fall stream under the tree) -->
+  <!-- ==================== LAYER 1: WIND-BLOWN DIAGONAL STREAM ==================== -->
+  <!-- Petal 1 -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" 
+                      values="1100,20; 600,140; 100,260; -100,340" 
+                      dur="7s" repeatCount="indefinite"/>
+    <use href="#petal-shape-1">
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="4.5s" repeatCount="indefinite" />
+    </use>
+  </g>
+
+  <!-- Petal 2 -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" 
+                      values="1020,40; 500,170; 0,300; -100,370" 
+                      dur="9s" repeatCount="indefinite"/>
+    <use href="#petal-shape-1-dark">
+      <animateTransform attributeName="transform" type="rotate" values="0;-360" dur="6.5s" repeatCount="indefinite" />
+    </use>
+  </g>
+
+  <!-- Petal 3 (Mid-screen loop start) -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" 
+                      values="600,120; 200,240; -100,320; 1100,30; 600,120" 
+                      dur="8s" repeatCount="indefinite"/>
+    <use href="#petal-shape-2">
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="5.5s" repeatCount="indefinite" />
+    </use>
+  </g>
+
+  <!-- Petal 4 -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" 
+                      values="950,60; 450,210; -50,340; -100,380" 
+                      dur="10s" repeatCount="indefinite"/>
+    <use href="#petal-shape-3-dark">
+      <animateTransform attributeName="transform" type="rotate" values="0;-180" dur="7.5s" repeatCount="indefinite" />
+    </use>
+  </g>
+
+  <!-- Petal 5 -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" 
+                      values="1150,10; 650,150; 250,280; -100,390" 
+                      dur="6.5s" repeatCount="indefinite"/>
+    <use href="#petal-shape-3">
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="4.8s" repeatCount="indefinite" />
+    </use>
+  </g>
+
+  <!-- Petal 6 (Mid-screen loop start 2) -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" 
+                      values="400,160; 0,280; -100,340; 1180,10; 400,160" 
+                      dur="7.5s" repeatCount="indefinite"/>
+    <use href="#petal-shape-1">
+      <animateTransform attributeName="transform" type="rotate" values="0;-360" dur="5.2s" repeatCount="indefinite" />
+    </use>
+  </g>
+
+  <!-- Petal 7 -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" 
+                      values="1080,30; 580,160; 180,290; -100,370" 
+                      dur="8.5s" repeatCount="indefinite"/>
+    <use href="#petal-shape-2">
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="6.2s" repeatCount="indefinite" />
+    </use>
+  </g>
+
+  <!-- Petal 8 -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" 
+                      values="900,50; 400,190; 0,310; -100,360" 
+                      dur="11s" repeatCount="indefinite"/>
+    <use href="#petal-shape-3-dark">
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="8.5s" repeatCount="indefinite" />
+    </use>
+  </g>
+
+  <!-- Petal 9 -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" 
+                      values="1160,5; 700,130; 300,250; -100,370" 
+                      dur="7.8s" repeatCount="indefinite"/>
+    <use href="#petal-shape-1-dark">
+      <animateTransform attributeName="transform" type="rotate" values="0;-360" dur="5s" repeatCount="indefinite" />
+    </use>
+  </g>
+
+  <!-- Petal 10 -->
+  <g opacity="0.75">
+    <animateTransform attributeName="transform" type="translate" 
+                      values="1050,20; 550,150; 150,270; -100,350" 
+                      dur="12s" repeatCount="indefinite"/>
+    <use href="#petal-shape-2">
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="9s" repeatCount="indefinite" />
+    </use>
+  </g>
+
+  <!-- Petal 11 (Mid-screen loop start 3) -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" 
+                      values="800,150; 300,270; -100,350; 1120,40; 800,150" 
+                      dur="7.2s" repeatCount="indefinite"/>
+    <use href="#petal-shape-1-dark">
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="5s" repeatCount="indefinite" />
+    </use>
+  </g>
+
+  <!-- Petal 12 (Mid-screen loop start 4) -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" 
+                      values="700,100; 300,220; -100,300; 1200,20; 700,100" 
+                      dur="9.2s" repeatCount="indefinite"/>
+    <use href="#petal-shape-2">
+      <animateTransform attributeName="transform" type="rotate" values="0;-360" dur="6.8s" repeatCount="indefinite" />
+    </use>
+  </g>
+
+
+  <!-- ==================== LAYER 2: DIRECT GRAVITY VERTICAL FALL (Down from tree) ==================== -->
+  <!-- Petal 13 -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" 
+                      values="1050,40; 1020,180; 1040,300; 1010,400" 
+                      dur="6s" repeatCount="indefinite"/>
+    <use href="#petal-shape-1">
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="4s" repeatCount="indefinite" />
+    </use>
+  </g>
+
+  <!-- Petal 14 -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" 
+                      values="960,60; 940,160; 950,280; 930,400" 
+                      dur="8s" repeatCount="indefinite"/>
+    <use href="#petal-shape-2">
+      <animateTransform attributeName="transform" type="rotate" values="0;-360" dur="5.5s" repeatCount="indefinite" />
+    </use>
+  </g>
+
+  <!-- Petal 15 -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" 
+                      values="1120,30; 1100,150; 1110,270; 1080,400" 
+                      dur="7.5s" repeatCount="indefinite"/>
+    <use href="#petal-shape-3">
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="4.8s" repeatCount="indefinite" />
+    </use>
+  </g>
+
+  <!-- Petal 16 -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" 
+                      values="990,50; 970,170; 980,290; 950,400" 
+                      dur="9s" repeatCount="indefinite"/>
+    <use href="#petal-shape-1-dark">
+      <animateTransform attributeName="transform" type="rotate" values="0;-180" dur="6s" repeatCount="indefinite" />
+    </use>
+  </g>
+
+  <!-- Petal 17 -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" 
+                      values="1080,45; 1050,190; 1070,310; 1030,400" 
+                      dur="8.5s" repeatCount="indefinite"/>
+    <use href="#petal-shape-3-dark">
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="5.2s" repeatCount="indefinite" />
+    </use>
+  </g>
+
+  <!-- Petal 18 -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" 
+                      values="930,75; 910,180; 920,290; 900,400" 
+                      dur="10.5s" repeatCount="indefinite"/>
+    <use href="#petal-shape-2">
+      <animateTransform attributeName="transform" type="rotate" values="0;-360" dur="7s" repeatCount="indefinite" />
+    </use>
+  </g>
+
+  <!-- Petal 19 (Vertical mid-air start) -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" 
+                      values="1040,150; 1020,250; 1030,350; 1010,400; 1050,40; 1040,150" 
+                      dur="7s" repeatCount="indefinite"/>
+    <use href="#petal-shape-1">
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="4.2s" repeatCount="indefinite" />
+    </use>
+  </g>
+
+  <!-- Petal 20 (Vertical mid-air start 2) -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" 
+                      values="950,120; 930,220; 940,320; 920,400; 960,60; 950,120" 
+                      dur="8.2s" repeatCount="indefinite"/>
+    <use href="#petal-shape-2">
+      <animateTransform attributeName="transform" type="rotate" values="0;-360" dur="5.8s" repeatCount="indefinite" />
+    </use>
+  </g>
+
+  <!-- Petal 21 (Vertical mid-air start 3) -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" 
+                      values="1110,180; 1090,280; 1100,370; 1080,400; 1120,30; 1110,180" 
+                      dur="6.8s" repeatCount="indefinite"/>
+    <use href="#petal-shape-3">
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="4.6s" repeatCount="indefinite" />
+    </use>
+  </g>
+
+  <!-- Petal 22 (Vertical mid-air start 4) -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" 
+                      values="980,140; 960,240; 970,340; 940,400; 990,50; 980,140" 
+                      dur="8.8s" repeatCount="indefinite"/>
+    <use href="#petal-shape-1-dark">
+      <animateTransform attributeName="transform" type="rotate" values="0;-180" dur="6.2s" repeatCount="indefinite" />
+    </use>
+  </g>
+
+  <!-- Petal 23 (Vertical mid-air start 5) -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" 
+                      values="1070,160; 1040,260; 1060,360; 1020,400; 1080,45; 1070,160" 
+                      dur="7.8s" repeatCount="indefinite"/>
+    <use href="#petal-shape-3-dark">
+      <animateTransform attributeName="transform" type="rotate" values="0;360" dur="5s" repeatCount="indefinite" />
+    </use>
+  </g>
+
+  <!-- Petal 24 (Vertical mid-air start 6) -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" 
+                      values="920,130; 900,230; 910,330; 890,400; 930,75; 920,130" 
+                      dur="9.5s" repeatCount="indefinite"/>
+    <use href="#petal-shape-2">
+      <animateTransform attributeName="transform" type="rotate" values="0;-360" dur="6.5s" repeatCount="indefinite" />
+    </use>
+  </g>
+
+  <!-- Left Side: Clean, High-Contrast Monospace Typewriter Name (100% transparent and reliable clipPath reveal) -->
+  <g transform="translate(100, 205)" class="font-sans">
+    
+    <!-- Typewriter Name (clipping only the text, completely transparent background - NO black boxes) -->
+    <text x="0" y="0" class="font-mono text-name" clip-path="url(#typeClip)">Kanneboina Shiva Kumar</text>
+    
+    <!-- Blinking Caret/Cursor (aligned relative to the text block) -->
+    <rect x="0" y="-37" width="4" height="46" fill="#f43f5e">
+      <animate attributeName="x" values="0;0;660;660;0" keyTimes="0;0.12;0.85;0.95;1" dur="6.5s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" />
+    </rect>
+    
+  </g>
+
+</svg>

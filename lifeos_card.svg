@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" width="400" height="120">
+  <!-- Card Background -->
+  <rect width="398" height="118" x="1" y="1" rx="8" fill="#1a1b26" stroke="#2e3047" stroke-width="1.5"/>
+  
+  <style>
+    .title { 
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; 
+      font-size: 16px; 
+      font-weight: 600; 
+      fill: #70a5fd; 
+    }
+    .desc { 
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; 
+      font-size: 12px; 
+      fill: #a9b1d6; 
+    }
+    .lang { 
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; 
+      font-size: 11px; 
+      fill: #a9b1d6; 
+    }
+  </style>
+  
+  <!-- Title Section -->
+  <g transform="translate(16, 28)">
+    <!-- Book Icon -->
+    <path d="M 0,1 C 0,0.5 0.5,0 1,0 L 13,0 C 13.5,0 14,0.5 14,1 L 14,11 C 14,11.5 13.5,12 13,12 L 1,12 C 0.5,12 0,11.5 0,11 Z" fill="none" stroke="#70a5fd" stroke-width="1.5"/>
+    <path d="M 3,3 L 11,3 M 3,6 L 11,6 M 3,9 L 11,9" stroke="#70a5fd" stroke-width="1"/>
+    
+    <text x="22" y="10" class="title">LifeOS</text>
+  </g>
+  
+  <!-- Description -->
+  <text x="16" y="62" class="desc">Gamified Personal Growth RPG &amp; Deep Work Hub</text>
+  
+  <!-- Tech Stack Tags -->
+  <g transform="translate(16, 96)">
+    <!-- TypeScript -->
+    <circle cx="4" cy="-3" r="4" fill="#3178c6"/>
+    <text x="14" y="1" class="lang">TypeScript</text>
+    
+    <!-- React/Next.js -->
+    <circle cx="105" cy="-3" r="4" fill="#61dafb"/>
+    <text x="115" y="1" class="lang">React / Next.js</text>
+
+    <!-- Docker -->
+    <circle cx="215" cy="-3" r="4" fill="#2496ed"/>
+    <text x="225" y="1" class="lang">Docker</text>
+  </g>
+</svg>
