@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Kanneboina Shiva Kumar Banner" width="100%" />
+  <img src="./assets/banner.svg" alt="Kanneboina Shiva Kumar Banner" width="100%" />
 </p>
 
 
@@ -82,8 +82,8 @@ me.say_hi()
 </p>
 
 <p align="center">
-  <img src="./github_stats.svg" alt="GitHub Stats" loading="lazy" />
-  <img src="./top_languages.svg" alt="Top Languages" loading="lazy" />
+  <img src="./assets/github_stats.svg" alt="GitHub Stats" loading="lazy" />
+  <img src="./assets/top_languages.svg" alt="Top Languages" loading="lazy" />
 </p>
 
 <p align="center">
@@ -98,45 +98,45 @@ me.say_hi()
   <tr>
     <!-- Row 1, Column 1 (NexQueue) -->
     <td valign="top" width="48%" align="center">
-      <a href="https://github.com/Kanneboinashivakumar/nexqueue"><img src="./nexqueue_card.svg?v=4" width="100%" style="display:block; margin-bottom: 6px;" /></a>
-      <a href="https://github.com/Kanneboinashivakumar/nexqueue"><img src="./full_repo_button.svg" width="100%" style="display:block;" /></a>
+      <a href="https://github.com/Kanneboinashivakumar/nexqueue"><img src="./assets/nexqueue_card.svg?v=4" width="100%" style="display:block; margin-bottom: 6px;" /></a>
+      <a href="https://github.com/Kanneboinashivakumar/nexqueue"><img src="./assets/full_repo_button.svg" width="100%" style="display:block;" /></a>
     </td>
     <!-- Spacer Column -->
     <td width="4%"></td>
     <!-- Row 1, Column 2 (LIFEOS) -->
     <td valign="top" width="48%" align="center">
-      <a href="https://github.com/Kanneboinashivakumar/LifeOS"><img src="./lifeos_project_card.svg?v=4" width="100%" style="display:block; margin-bottom: 6px;" /></a>
-      <a href="https://github.com/Kanneboinashivakumar/LifeOS"><img src="./repo_button.svg" width="48.5%" /></a>&nbsp;<a href="https://lifeos-app-179120008102.us-central1.run.app/"><img src="./demo_button.svg" width="48.5%" /></a>
+      <a href="https://github.com/Kanneboinashivakumar/LifeOS"><img src="./assets/lifeos_project_card.svg?v=4" width="100%" style="display:block; margin-bottom: 6px;" /></a>
+      <a href="https://github.com/Kanneboinashivakumar/LifeOS"><img src="./assets/repo_button.svg" width="48.5%" /></a>&nbsp;<a href="https://lifeos-app-179120008102.us-central1.run.app/"><img src="./assets/demo_button.svg" width="48.5%" /></a>
     </td>
   </tr>
   <tr><td height="24" colspan="3"></td></tr> <!-- Spacer Row -->
   <tr>
     <!-- Row 2, Column 1 (LokSathi) -->
     <td valign="top" align="center">
-      <a href="https://github.com/Kanneboinashivakumar"><img src="./loksathi_card.svg?v=4" width="100%" style="display:block; margin-bottom: 6px;" /></a>
-      <a href="https://github.com/Kanneboinashivakumar"><img src="./full_repo_button.svg" width="100%" style="display:block;" /></a>
+      <a href="https://github.com/Kanneboinashivakumar"><img src="./assets/loksathi_card.svg?v=4" width="100%" style="display:block; margin-bottom: 6px;" /></a>
+      <a href="https://github.com/Kanneboinashivakumar"><img src="./assets/full_repo_button.svg" width="100%" style="display:block;" /></a>
     </td>
     <!-- Spacer Column -->
     <td></td>
     <!-- Row 2, Column 2 (BharatAkshar) -->
     <td valign="top" align="center">
-      <a href="https://github.com/Kanneboinashivakumar/BharatAkshar"><img src="./bharatakshar_card.svg?v=4" width="100%" style="display:block; margin-bottom: 6px;" /></a>
-      <a href="https://github.com/Kanneboinashivakumar/BharatAkshar"><img src="./repo_button.svg" width="48.5%" /></a>&nbsp;<a href="https://kanneboinashivakumar.github.io/BharatAkshar/"><img src="./demo_button.svg" width="48.5%" /></a>
+      <a href="https://github.com/Kanneboinashivakumar/BharatAkshar"><img src="./assets/bharatakshar_card.svg?v=4" width="100%" style="display:block; margin-bottom: 6px;" /></a>
+      <a href="https://github.com/Kanneboinashivakumar/BharatAkshar"><img src="./assets/repo_button.svg" width="48.5%" /></a>&nbsp;<a href="https://kanneboinashivakumar.github.io/BharatAkshar/"><img src="./assets/demo_button.svg" width="48.5%" /></a>
     </td>
   </tr>
   <tr><td height="24" colspan="3"></td></tr> <!-- Spacer Row -->
   <tr>
     <!-- Row 3, Column 1 (Portfolio) -->
     <td valign="top" align="center">
-      <a href="https://github.com/Kanneboinashivakumar/portfolio"><img src="./portfolio_card.svg?v=4" width="100%" style="display:block; margin-bottom: 6px;" /></a>
-      <a href="https://github.com/Kanneboinashivakumar/portfolio"><img src="./repo_button.svg" width="48.5%" /></a>&nbsp;<a href="https://kanneboinashivakumar.github.io/portfolio/"><img src="./demo_button.svg" width="48.5%" /></a>
+      <a href="https://github.com/Kanneboinashivakumar/portfolio"><img src="./assets/portfolio_card.svg?v=4" width="100%" style="display:block; margin-bottom: 6px;" /></a>
+      <a href="https://github.com/Kanneboinashivakumar/portfolio"><img src="./assets/repo_button.svg" width="48.5%" /></a>&nbsp;<a href="https://kanneboinashivakumar.github.io/portfolio/"><img src="./assets/demo_button.svg" width="48.5%" /></a>
     </td>
     <!-- Spacer Column -->
     <td></td>
     <!-- Row 3, Column 2 (ML Projects) -->
     <td valign="top" align="center">
-      <a href="https://github.com/Kanneboinashivakumar"><img src="./ml_projects_card.svg?v=4" width="100%" style="display:block; margin-bottom: 6px;" /></a>
-      <a href="https://github.com/Kanneboinashivakumar"><img src="./full_repo_button.svg" width="100%" style="display:block;" /></a>
+      <a href="https://github.com/Kanneboinashivakumar"><img src="./assets/ml_projects_card.svg?v=4" width="100%" style="display:block; margin-bottom: 6px;" /></a>
+      <a href="https://github.com/Kanneboinashivakumar"><img src="./assets/full_repo_button.svg" width="100%" style="display:block;" /></a>
     </td>
   </tr>
 </table>
@@ -165,7 +165,7 @@ me.say_hi()
 ## 💼 Skills Matrix
 
 <p align="center">
-  <img src="./skills_matrix.svg?v=4" alt="Skills Matrix" width="100%" loading="lazy" />
+  <img src="./assets/skills_matrix.svg?v=4" alt="Skills Matrix" width="100%" loading="lazy" />
 </p>
  
 ---
@@ -173,7 +173,7 @@ me.say_hi()
 ## 📈 Coding Activity
  
 <p align="center">
-  <img src="./coding_activity.svg?v=4" alt="Coding Activity" width="100%" loading="lazy" />
+  <img src="./assets/coding_activity.svg?v=4" alt="Coding Activity" width="100%" loading="lazy" />
 </p>
 
 ---
@@ -230,7 +230,7 @@ graph TB
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://raw.githubusercontent.com/Kanneboinashivakumar/KanneboinaShivaKumar/main/github_trophies.svg" alt="GitHub Trophies" />
+    <img src="https://raw.githubusercontent.com/Kanneboinashivakumar/KanneboinaShivaKumar/main/assets/github_trophies.svg" alt="GitHub Trophies" />
   </a>
 </p>
 

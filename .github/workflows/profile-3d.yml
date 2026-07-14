@@ -27,7 +27,7 @@ jobs:
 
       - name: Download GitHub Trophies
         run: |
-          curl -s "https://trophy.ryglcloud.net/?username=${{ github.repository_owner }}&theme=dracula&no-bg=true&column=6" -o github_trophies.svg
+          curl -s "https://trophy.ryglcloud.net/?username=${{ github.repository_owner }}&theme=dracula&no-bg=true&column=6" -o assets/github_trophies.svg
 
       - name: Commit & Push Changes
         run: |
