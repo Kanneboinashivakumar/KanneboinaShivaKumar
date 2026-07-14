@@ -230,29 +230,7 @@ graph TB
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kanneboinashivakumar&theme=dracula&no-bg=true&column=6" alt="GitHub Trophies" />
-  </a>
-</p>
-
----
-
-<h3 align="center">✦ Backend Architecture · System Design · Performance Optimization ✦</h3>
-
-<p align="center">
-  <i>"Clean code always looks like it was written by someone who cares."</i>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shiva-kumar-kannaeboina-b6a844298/">
-    <img src="https://img.shields.io/badge/LINKEDIN-FF69B4?style=for-the-badge" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:beginsample36@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-8c52ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Kanneboinashivakumar">
-    <img src="https://img.shields.io/badge/GITHUB-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="./github_trophies.svg" alt="GitHub Trophies" />
   </a>
 </p>
 
