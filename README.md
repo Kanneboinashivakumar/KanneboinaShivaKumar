@@ -78,6 +78,10 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+</p>
+
+<p align="center">
   <img src="./github_stats.svg" alt="GitHub Stats" loading="lazy" />
   <img src="./top_languages.svg" alt="Top Languages" loading="lazy" />
 </p>
@@ -224,30 +228,33 @@ graph TB
 
 ---
 
-## 🤝 Let's Connect!
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212259464-9d8ae5bc-7708-4ff7-be1e-cea9d8159ecc.jpg" width="200" alt="Profile Image">
-<br>
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiva-kumar-kannaeboina-b6a844298/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kanneboinashivakumar.github.io/portfolio/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beginsample36@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kanneboinashivakumar)
-
-</div>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Kanneboinashivakumar&theme=dracula&no-bg=true&column=6" alt="GitHub Trophies" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+<h3 align="center">✦ Backend Architecture · System Design · Performance Optimization ✦</h3>
 
-### 💭 "First, solve the problem. Then, write the code." – John Johnson
+<p align="center">
+  <i>"Clean code always looks like it was written by someone who cares."</i>
+</p>
 
-### ⭐️ From [Kanneboinashivakumar](https://github.com/Kanneboinashivakumar) | 🚀 Building the future, one commit at a time! 
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shiva-kumar-kannaeboina-b6a844298/">
+    <img src="https://img.shields.io/badge/LINKEDIN-FF69B4?style=for-the-badge" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:beginsample36@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-8c52ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Kanneboinashivakumar">
+    <img src="https://img.shields.io/badge/GITHUB-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
