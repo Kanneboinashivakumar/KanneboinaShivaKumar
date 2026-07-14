@@ -78,7 +78,7 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/Kanneboinashivakumar/KanneboinaShivaKumar/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </p>
 
 <p align="center">
@@ -230,7 +230,7 @@ graph TB
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="./github_trophies.svg" alt="GitHub Trophies" />
+    <img src="https://raw.githubusercontent.com/Kanneboinashivakumar/KanneboinaShivaKumar/main/github_trophies.svg" alt="GitHub Trophies" />
   </a>
 </p>
 
